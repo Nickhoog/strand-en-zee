@@ -21,3 +21,4 @@
 - Dry run Open-Meteo op 6 locaties: kust geeft alles, binnenwater (o.a. Schoonhoven, Langwarder Wielen) alleen wind.
 - Een bestaande dienst (Zandvoort, door gebruiker aangemaakt) blijft werken: de coördinator leest alleen lat/lon.
 - Manifest-sleutels gesorteerd (hassfest), icoon in brand/ toegevoegd (HACS brands-check), versie 0.2.0.
+- Release v0.2.0 gepubliceerd op GitHub (HACS-standaardlijst vereist een release).
