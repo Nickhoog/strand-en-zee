@@ -1,3 +1,9 @@
+# Strand & Zee for Home Assistant
+
+*English summary:* water temperature, wave height, wave period, wind speed and wind direction for any of the 739 official Dutch swimming locations (beaches and lakes), picked from a dropdown. Values are model data from [Open-Meteo](https://open-meteo.com/) (CC BY 4.0, free for non-commercial use only). Inland lakes usually only get wind. Netherlands only.
+
+---
+
 # Strand & Zee voor Home Assistant
 
 Watertemperatuur, golfhoogte, golfperiode, windsnelheid en windrichting voor een Nederlands strand of zwemplas, als sensoren. Kies je locatie uit een dropdown met alle 739 officiële zwemlocaties.

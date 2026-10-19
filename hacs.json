@@ -1,5 +1,6 @@
 {
-  "name": "Strand & Zee (Rijkswaterstaat)",
+  "name": "Strand & Zee",
+  "country": "NL",
   "homeassistant": "2024.8.0",
   "render_readme": true
 }
