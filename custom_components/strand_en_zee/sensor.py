@@ -91,7 +91,8 @@ class StrandEnZeeSensor(CoordinatorEntity[StrandEnZeeCoordinator], SensorEntity)
         self._attr_device_info = DeviceInfo(
             identifiers={(DOMAIN, entry.entry_id)},
             name=entry.data[CONF_NAME],
-            manufacturer="Open-Meteo",
+            manufacturer="Strand & Zee",
+            model="Zwemlocatie (data: Open-Meteo)",
             entry_type=DeviceEntryType.SERVICE,
         )
 
