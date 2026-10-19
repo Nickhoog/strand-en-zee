@@ -20,3 +20,4 @@
 - Nieuw: dropdown met alle zwemlocaties. Bron: PDOK "Zwemwater provinciaal en rijkswateren" (CC0, ATOM-GML). `tools/generate_swimspots.py` zet de vlakken om naar middelpunten in WGS84 (EPSG:3035 heeft in GML eerst noorden, dan oosten). Resultaat: 739 unieke locaties in `swimspots.json`; Zandvoort en Scheveningen gecontroleerd.
 - Dry run Open-Meteo op 6 locaties: kust geeft alles, binnenwater (o.a. Schoonhoven, Langwarder Wielen) alleen wind.
 - Een bestaande dienst (Zandvoort, door gebruiker aangemaakt) blijft werken: de coördinator leest alleen lat/lon.
+- Manifest-sleutels gesorteerd (hassfest), icoon in brand/ toegevoegd (HACS brands-check), versie 0.2.0.
