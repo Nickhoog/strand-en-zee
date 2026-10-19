@@ -3,48 +3,19 @@
     "step": {
       "user": {
         "title": "Strand & Zee",
-        "description": "Kies de locatie van je strand. De integratie zoekt per meting het dichtstbijzijnde Rijkswaterstaat-meetstation.",
-        "data": {
-          "name": "Naam (bijv. Zandvoort)",
-          "latitude": "Breedtegraad",
-          "longitude": "Lengtegraad",
-          "max_distance_km": "Maximale afstand tot meetstation (km)",
-          "source": "Databron"
-        }
+        "description": "Kies een officiële zwemlocatie (strand of plas). Je kunt typen om te zoeken.",
+        "data": { "spot": "Zwemlocatie" }
       }
     },
-    "error": {
-      "no_stations": "Geen meetstations binnen deze afstand gevonden."
-    },
-    "abort": {
-      "already_configured": "Deze locatie is al ingesteld."
-    }
+    "abort": { "already_configured": "Deze locatie is al ingesteld." }
   },
   "entity": {
     "sensor": {
-      "water_temperature": {
-        "name": "Watertemperatuur"
-      },
-      "wave_height": {
-        "name": "Golfhoogte"
-      },
-      "wave_period": {
-        "name": "Golfperiode"
-      },
-      "wind_speed": {
-        "name": "Windsnelheid"
-      },
-      "wind_direction": {
-        "name": "Windrichting"
-      }
-    }
-  },
-  "selector": {
-    "source": {
-      "options": {
-        "rws": "Rijkswaterstaat (gemeten, dichtstbijzijnde station)",
-        "open_meteo": "Open-Meteo (model, exact op je locatie)"
-      }
+      "water_temperature": { "name": "Watertemperatuur" },
+      "wave_height": { "name": "Golfhoogte" },
+      "wave_period": { "name": "Golfperiode" },
+      "wind_speed": { "name": "Windsnelheid" },
+      "wind_direction": { "name": "Windrichting" }
     }
   }
 }

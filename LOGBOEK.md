@@ -14,3 +14,9 @@
 - Dry run `fetch_open_meteo`: Zandvoort geeft alle 5 metingen, Utrecht (binnenland) alleen wind (geen zeedata, sensoren worden dan onbeschikbaar). Gefixt: floats in aiohttp-params (nu str) en tijdzone (nu GMT, geen zoneinfo nodig).
 - README en `tools/generate_stations.py` toegevoegd (generator niet opnieuw gedraaid, syntax gecontroleerd).
 - Nog open: testen in echte Home Assistant, GitHub-repo (privé), CHANGE_ME in manifest.json invullen, eventueel zwemwaterkwaliteit na toestemming BIJ12.
+
+## 2026-10-19 (later)
+- Besluit gebruiker: alleen Open-Meteo. RWS-bron, `stations.json`, `generate_stations.py`, bron-selector en afstandsinstelling verwijderd.
+- Nieuw: dropdown met alle zwemlocaties. Bron: PDOK "Zwemwater provinciaal en rijkswateren" (CC0, ATOM-GML). `tools/generate_swimspots.py` zet de vlakken om naar middelpunten in WGS84 (EPSG:3035 heeft in GML eerst noorden, dan oosten). Resultaat: 739 unieke locaties in `swimspots.json`; Zandvoort en Scheveningen gecontroleerd.
+- Dry run Open-Meteo op 6 locaties: kust geeft alles, binnenwater (o.a. Schoonhoven, Langwarder Wielen) alleen wind.
+- Een bestaande dienst (Zandvoort, door gebruiker aangemaakt) blijft werken: de coördinator leest alleen lat/lon.

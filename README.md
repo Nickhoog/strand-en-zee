@@ -1,36 +1,38 @@
 # Strand & Zee voor Home Assistant
 
-Watertemperatuur, golfhoogte, golfperiode, windsnelheid en windrichting voor jouw strand, als sensoren.
+Watertemperatuur, golfhoogte, golfperiode, windsnelheid en windrichting voor een Nederlands strand of zwemplas, als sensoren. Kies je locatie uit een dropdown met alle 739 officiële zwemlocaties.
 
-## Databronnen (kies bij installatie)
+## Hoe het werkt
 
-| Bron | Wat | Opmerking |
-|---|---|---|
-| **Rijkswaterstaat** (standaard) | Echte metingen van het dichtstbijzijnde live meetstation, per grootheid apart. Het station en de afstand staan in de attributen. | CC0, geen sleutel nodig. Geen uptime-garantie. |
-| **Open-Meteo** | Modelwaarden precies op jouw coördinaten. | Gratis voor niet-commercieel gebruik, CC BY 4.0. Niet bruikbaar voor commerciële toepassingen. Landinwaarts is er geen zeedata. |
-
-Elke sensor toont de bronvermelding in het attribuut `attribution`.
+- Je kiest een zwemlocatie (typen om te zoeken werkt). De lijst komt uit de open dataset "Zwemwater (provinciaal en rijkswateren)" van PDOK (CC0) en zit in de integratie, dus er is geen netwerkverzoek nodig om de lijst te tonen.
+- De waarden komen van [Open-Meteo](https://open-meteo.com/) (Marine en Forecast API), berekend voor de coördinaten van die locatie. Het zijn modelwaarden, geen metingen.
+- Update elke 15 minuten. Geen API-sleutel nodig.
 
 ## Installatie
 
 1. HACS, Custom repositories, voeg deze repo toe als type Integration.
 2. Installeer "Strand & Zee" en herstart Home Assistant.
-3. Instellingen, Apparaten & diensten, Integratie toevoegen, "Strand & Zee".
-4. Vul een naam, de coördinaten van je strand, de bron en de maximale afstand tot een meetstation in.
+3. Instellingen, Apparaten & diensten, Integratie toevoegen, "Strand & Zee", kies je zwemlocatie.
 
 ## Sensoren
 
-Watertemperatuur (°C), golfhoogte (m), golfperiode (s), windsnelheid (m/s) en windrichting (°, met `compass` als attribuut). Update elke 10 minuten.
+Watertemperatuur (°C), golfhoogte (m), golfperiode (s), windsnelheid (m/s) en windrichting (°, met `compass` als attribuut).
 
-## Stationslijst verversen
-
-`stations.json` bevat de RWS-stations die live data leveren. Verversen kan met `tools/generate_stations.py` (eenmalig, ongeveer 2300 verzoeken; houd het zuinig vanwege fair use).
+**Let op bij plassen en binnenwater:** Open-Meteo heeft daar vaak geen zeedata. Wind is er altijd, maar watertemperatuur en golven blijven dan onbeschikbaar.
 
 ## Niet inbegrepen
 
 Zwemwaterkwaliteit (blauwalg, E. coli): Zwemwater.nl heeft geen officiële API en eist bronvermelding. Eerst toestemming vragen bij BIJ12 (communicatie@bij12.nl) voordat dit wordt toegevoegd.
 
+## Gebruiksvoorwaarden
+
+De gratis Open-Meteo API is bedoeld voor niet-commercieel gebruik (zoals persoonlijke domotica) en valt onder CC BY 4.0. Gebruik deze integratie dus niet in een commercieel product. Elke sensor toont de bronvermelding.
+
+## Lijst met zwemlocaties verversen
+
+`python tools/generate_swimspots.py` (vereist `pip install pyproj`) haalt de dataset opnieuw op en schrijft `swimspots.json`.
+
 ## Bronnen en licenties
 
-- Rijkswaterstaat WaterWebservices, CC0: https://rijkswaterstaatdata.nl/waterdata/
 - Weather data by [Open-Meteo.com](https://open-meteo.com/), CC BY 4.0
+- Zwemlocaties: [PDOK Zwemwater (provinciaal en rijkswateren)](https://service.pdok.nl/provincies/zwemwater-provinciaal-rijkswateren/atom/v1_0/index.xml), CC0

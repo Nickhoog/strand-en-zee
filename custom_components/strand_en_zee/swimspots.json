@@ -1,0 +1,4439 @@
+{
+"source": "PDOK Zwemwater provinciaal en rijkswateren (CC0)",
+"spots": [
+{
+"name": "'s-Gravenzande",
+"lat": 52.01048,
+"lon": 4.13542,
+"label": "'s-Gravenzande"
+},
+{
+"name": "'T Gasselterveld",
+"lat": 52.97224,
+"lon": 6.75022,
+"label": "'T Gasselterveld"
+},
+{
+"name": "'t Hilgelo",
+"lat": 51.99297,
+"lon": 6.71917,
+"label": "'t Hilgelo"
+},
+{
+"name": "'T Hoefsven",
+"lat": 51.67602,
+"lon": 5.09466,
+"label": "'T Hoefsven"
+},
+{
+"name": "'T Nije Hemelriek",
+"lat": 52.97254,
+"lon": 6.75557,
+"label": "'T Nije Hemelriek"
+},
+{
+"name": "'t Petje",
+"lat": 52.73903,
+"lon": 4.83969,
+"label": "'t Petje"
+},
+{
+"name": "'T Schaartven",
+"lat": 51.57273,
+"lon": 5.97427,
+"label": "'T Schaartven"
+},
+{
+"name": "'t Skarpet",
+"lat": 52.71724,
+"lon": 4.87232,
+"label": "'t Skarpet"
+},
+{
+"name": "'T Veenmeer",
+"lat": 53.08362,
+"lon": 6.63164,
+"label": "'T Veenmeer"
+},
+{
+"name": "'t Wed",
+"lat": 52.39998,
+"lon": 4.58919,
+"label": "'t Wed"
+},
+{
+"name": "'T Witven",
+"lat": 51.39791,
+"lon": 5.4108,
+"label": "'T Witven"
+},
+{
+"name": "'t Zand",
+"lat": 51.49927,
+"lon": 4.94869,
+"label": "'t Zand"
+},
+{
+"name": "'t Zand Middenstrand",
+"lat": 51.50006,
+"lon": 4.95153,
+"label": "'t Zand Middenstrand"
+},
+{
+"name": "'t Zwarte Plasje",
+"lat": 51.95922,
+"lon": 4.49135,
+"label": "'t Zwarte Plasje"
+},
+{
+"name": "`T Loomeer",
+"lat": 52.89247,
+"lon": 6.70463,
+"label": "`T Loomeer"
+},
+{
+"name": "Aakvlaai, Badstrand",
+"lat": 51.72499,
+"lon": 4.86837,
+"label": "Aakvlaai, Badstrand"
+},
+{
+"name": "Abbertstrand",
+"lat": 52.51059,
+"lon": 5.85372,
+"label": "Abbertstrand"
+},
+{
+"name": "Agnietenplas Oost",
+"lat": 52.54108,
+"lon": 6.12936,
+"label": "Agnietenplas Oost"
+},
+{
+"name": "Agnietenplas West",
+"lat": 52.54049,
+"lon": 6.12909,
+"label": "Agnietenplas West"
+},
+{
+"name": "Akersloot",
+"lat": 52.55929,
+"lon": 4.74357,
+"label": "Akersloot"
+},
+{
+"name": "Aldegeaster Brekken, Oudega",
+"lat": 52.99701,
+"lon": 5.54438,
+"label": "Aldegeaster Brekken, Oudega"
+},
+{
+"name": "Almeerderstrand",
+"lat": 52.33448,
+"lon": 5.13711,
+"label": "Almeerderstrand"
+},
+{
+"name": "Amsterdamse Bos",
+"lat": 52.32088,
+"lon": 4.82882,
+"label": "Amsterdamse Bos"
+},
+{
+"name": "Andijk",
+"lat": 52.73979,
+"lon": 5.17528,
+"label": "Andijk"
+},
+{
+"name": "Aquabest",
+"lat": 51.4969,
+"lon": 5.43544,
+"label": "Aquabest"
+},
+{
+"name": "Asterdplas",
+"lat": 51.62636,
+"lon": 4.75405,
+"label": "Asterdplas"
+},
+{
+"name": "Baarland Badstrand",
+"lat": 51.39404,
+"lon": 3.89842,
+"label": "Baarland Badstrand"
+},
+{
+"name": "Badpaviljoen IJsselmeer, Hindeloopen",
+"lat": 52.93658,
+"lon": 5.40155,
+"label": "Badpaviljoen IJsselmeer, Hindeloopen"
+},
+{
+"name": "Badstrand Badhuis, Vlieland",
+"lat": 53.30494,
+"lon": 5.0621,
+"label": "Badstrand Badhuis, Vlieland"
+},
+{
+"name": "Badstrand Ballum, Ameland",
+"lat": 53.46347,
+"lon": 5.69451,
+"label": "Badstrand Ballum, Ameland"
+},
+{
+"name": "Badstrand Buren, Ameland",
+"lat": 53.46296,
+"lon": 5.80585,
+"label": "Badstrand Buren, Ameland"
+},
+{
+"name": "Badstrand Hollum, Ameland",
+"lat": 53.44893,
+"lon": 5.61583,
+"label": "Badstrand Hollum, Ameland"
+},
+{
+"name": "Badstrand Hoorn, Terschelling",
+"lat": 53.4196,
+"lon": 5.3327,
+"label": "Badstrand Hoorn, Terschelling"
+},
+{
+"name": "Badstrand Nes, Ameland",
+"lat": 53.46036,
+"lon": 5.77786,
+"label": "Badstrand Nes, Ameland"
+},
+{
+"name": "Badstrand Prins Bernhardweg, Schiermonnikoog",
+"lat": 53.50258,
+"lon": 6.18517,
+"label": "Badstrand Prins Bernhardweg, Schiermonnikoog"
+},
+{
+"name": "Badstrand Veen",
+"lat": 51.78445,
+"lon": 5.10559,
+"label": "Badstrand Veen"
+},
+{
+"name": "Badstrand West aan Zee,Terschelling",
+"lat": 53.40519,
+"lon": 5.25357,
+"label": "Badstrand West aan Zee,Terschelling"
+},
+{
+"name": "Baggelhuizen",
+"lat": 52.98601,
+"lon": 6.51228,
+"label": "Baggelhuizen"
+},
+{
+"name": "Bakelse Plassen Nederheide",
+"lat": 51.51605,
+"lon": 5.77614,
+"label": "Bakelse Plassen Nederheide"
+},
+{
+"name": "Bargerhoek",
+"lat": 52.72657,
+"lon": 6.8944,
+"label": "Bargerhoek"
+},
+{
+"name": "Beachstrand Eemhof",
+"lat": 52.26019,
+"lon": 5.39011,
+"label": "Beachstrand Eemhof"
+},
+{
+"name": "Beekse Bergen zone 1",
+"lat": 51.52593,
+"lon": 5.12573,
+"label": "Beekse Bergen zone 1"
+},
+{
+"name": "Beekse Bergen Zone 2",
+"lat": 51.52118,
+"lon": 5.13686,
+"label": "Beekse Bergen Zone 2"
+},
+{
+"name": "Beekse Bergen zone 3",
+"lat": 51.51997,
+"lon": 5.12764,
+"label": "Beekse Bergen zone 3"
+},
+{
+"name": "Beersterplas, Beerta",
+"lat": 53.15557,
+"lon": 7.09169,
+"label": "Beersterplas, Beerta"
+},
+{
+"name": "Beldert Beach",
+"lat": 51.92624,
+"lon": 5.43717,
+"label": "Beldert Beach"
+},
+{
+"name": "Bemmelse Waard",
+"lat": 51.88226,
+"lon": 5.89977,
+"label": "Bemmelse Waard"
+},
+{
+"name": "Berendonck",
+"lat": 51.81191,
+"lon": 5.77432,
+"label": "Berendonck"
+},
+{
+"name": "Bergen",
+"lat": 52.65811,
+"lon": 4.62708,
+"label": "Bergen"
+},
+{
+"name": "Bergse Diepsluis Noord Badstrand",
+"lat": 51.51342,
+"lon": 4.17428,
+"label": "Bergse Diepsluis Noord Badstrand"
+},
+{
+"name": "Bergse heide oost",
+"lat": 51.50991,
+"lon": 4.32414,
+"label": "Bergse heide oost"
+},
+{
+"name": "Bergse heide zuid",
+"lat": 51.50951,
+"lon": 4.32144,
+"label": "Bergse heide zuid"
+},
+{
+"name": "Berkendonk Helmond, 120m van strandwachthuis",
+"lat": 51.47353,
+"lon": 5.72129,
+"label": "Berkendonk Helmond, 120m van strandwachthuis"
+},
+{
+"name": "Berkendonk Helmond, aan oostzijde Noordstrand",
+"lat": 51.477,
+"lon": 5.71953,
+"label": "Berkendonk Helmond, aan oostzijde Noordstrand"
+},
+{
+"name": "Berkenplas, Schiermonnikoog",
+"lat": 53.4851,
+"lon": 6.17457,
+"label": "Berkenplas, Schiermonnikoog"
+},
+{
+"name": "Bernisse Abbenbroek Oostzijde",
+"lat": 51.85477,
+"lon": 4.24476,
+"label": "Bernisse Abbenbroek Oostzijde"
+},
+{
+"name": "Bernisse Zuidland Oostzijde",
+"lat": 51.82116,
+"lon": 4.27152,
+"label": "Bernisse Zuidland Oostzijde"
+},
+{
+"name": "Betuwe Camping",
+"lat": 51.9385,
+"lon": 5.54234,
+"label": "Betuwe Camping"
+},
+{
+"name": "Betuwestrand Recreatie",
+"lat": 51.89729,
+"lon": 5.18377,
+"label": "Betuwestrand Recreatie"
+},
+{
+"name": "Binnenbedijkte Maas Mijnsheerenland",
+"lat": 51.79295,
+"lon": 4.48559,
+"label": "Binnenbedijkte Maas Mijnsheerenland"
+},
+{
+"name": "Binnenbedijkte Maas Westmaas",
+"lat": 51.78986,
+"lon": 4.48419,
+"label": "Binnenbedijkte Maas Westmaas"
+},
+{
+"name": "Binnenschelde",
+"lat": 51.48687,
+"lon": 4.2654,
+"label": "Binnenschelde"
+},
+{
+"name": "Blauwe Meer",
+"lat": 52.88255,
+"lon": 6.40724,
+"label": "Blauwe Meer"
+},
+{
+"name": "Blauwe Meer - Experience Island",
+"lat": 51.61477,
+"lon": 5.0618,
+"label": "Blauwe Meer - Experience Island"
+},
+{
+"name": "Blauwe Meer Dinxperlo",
+"lat": 51.85936,
+"lon": 6.47998,
+"label": "Blauwe Meer Dinxperlo"
+},
+{
+"name": "Bleekersvallei",
+"lat": 53.07345,
+"lon": 4.73205,
+"label": "Bleekersvallei"
+},
+{
+"name": "Bleiswijkse Zoom",
+"lat": 52.01351,
+"lon": 4.55365,
+"label": "Bleiswijkse Zoom"
+},
+{
+"name": "Bloemendaal",
+"lat": 52.42019,
+"lon": 4.55262,
+"label": "Bloemendaal"
+},
+{
+"name": "Boekels Ven",
+"lat": 51.59174,
+"lon": 5.69652,
+"label": "Boekels Ven"
+},
+{
+"name": "Borssele Badstrand",
+"lat": 51.44171,
+"lon": 3.69347,
+"label": "Borssele Badstrand"
+},
+{
+"name": "Braakmankreek Oost",
+"lat": 51.31601,
+"lon": 3.73262,
+"label": "Braakmankreek Oost"
+},
+{
+"name": "Braakmankreek West",
+"lat": 51.31741,
+"lon": 3.72238,
+"label": "Braakmankreek West"
+},
+{
+"name": "Braassemermeer",
+"lat": 52.1966,
+"lon": 4.64402,
+"label": "Braassemermeer"
+},
+{
+"name": "Bremerbaai",
+"lat": 52.4167,
+"lon": 5.72829,
+"label": "Bremerbaai"
+},
+{
+"name": "Breskens Badstrand",
+"lat": 51.40023,
+"lon": 3.5587,
+"label": "Breskens Badstrand"
+},
+{
+"name": "Breskens Fort Frederik Hendrik",
+"lat": 51.407,
+"lon": 3.52941,
+"label": "Breskens Fort Frederik Hendrik"
+},
+{
+"name": "Breskens Nieuwesluis Badstrand",
+"lat": 51.40023,
+"lon": 3.48653,
+"label": "Breskens Nieuwesluis Badstrand"
+},
+{
+"name": "Brielse Meer Brielsebrug Zuidzijde",
+"lat": 51.89951,
+"lon": 4.20554,
+"label": "Brielse Meer Brielsebrug Zuidzijde"
+},
+{
+"name": "Brielse Meer Buitenstrand Camping de Meeuw",
+"lat": 51.90461,
+"lon": 4.18007,
+"label": "Brielse Meer Buitenstrand Camping de Meeuw"
+},
+{
+"name": "Brielse Meer Camping de Krabbeplaat",
+"lat": 51.90906,
+"lon": 4.18066,
+"label": "Brielse Meer Camping de Krabbeplaat"
+},
+{
+"name": "Brielse Meer Camping de Meeuw",
+"lat": 51.90537,
+"lon": 4.18038,
+"label": "Brielse Meer Camping de Meeuw"
+},
+{
+"name": "Brielse Meer De Stenen Baak",
+"lat": 51.92944,
+"lon": 4.14307,
+"label": "Brielse Meer De Stenen Baak"
+},
+{
+"name": "Brielse Meer WSV Nautica",
+"lat": 51.89462,
+"lon": 4.21805,
+"label": "Brielse Meer WSV Nautica"
+},
+{
+"name": "Brielse Meer Zoom West",
+"lat": 51.90683,
+"lon": 4.19666,
+"label": "Brielse Meer Zoom West"
+},
+{
+"name": "Broekerhaven",
+"lat": 52.68657,
+"lon": 5.25555,
+"label": "Broekerhaven"
+},
+{
+"name": "Bronsbergenmeer",
+"lat": 52.11905,
+"lon": 6.21037,
+"label": "Bronsbergenmeer"
+},
+{
+"name": "Brouwersdam Kabbelaarsbank",
+"lat": 51.76306,
+"lon": 3.84699,
+"label": "Brouwersdam Kabbelaarsbank"
+},
+{
+"name": "Brouwershaven Badstrand",
+"lat": 51.73155,
+"lon": 3.91526,
+"label": "Brouwershaven Badstrand"
+},
+{
+"name": "Bruinisse Werkhaven Badstrand",
+"lat": 51.66892,
+"lon": 4.08783,
+"label": "Bruinisse Werkhaven Badstrand"
+},
+{
+"name": "Bussloo 't Gorsselaar",
+"lat": 52.20288,
+"lon": 6.09677,
+"label": "Bussloo 't Gorsselaar"
+},
+{
+"name": "Bussloo De Fliertkamp",
+"lat": 52.20248,
+"lon": 6.12067,
+"label": "Bussloo De Fliertkamp"
+},
+{
+"name": "Bussloo De Kuiter (Naturistenstrand)",
+"lat": 52.19603,
+"lon": 6.09888,
+"label": "Bussloo De Kuiter (Naturistenstrand)"
+},
+{
+"name": "Bussloo De Stronk",
+"lat": 52.20344,
+"lon": 6.1081,
+"label": "Bussloo De Stronk"
+},
+{
+"name": "Bussloo I De Snenge",
+"lat": 52.20315,
+"lon": 6.11533,
+"label": "Bussloo I De Snenge"
+},
+{
+"name": "Bussloo II De Robbertskamp",
+"lat": 52.2031,
+"lon": 6.10191,
+"label": "Bussloo II De Robbertskamp"
+},
+{
+"name": "Bussloo III De Withagen",
+"lat": 52.19796,
+"lon": 6.09569,
+"label": "Bussloo III De Withagen"
+},
+{
+"name": "Bussloo Kinderstrand",
+"lat": 52.19589,
+"lon": 6.09388,
+"label": "Bussloo Kinderstrand"
+},
+{
+"name": "Cadzand Badstrand",
+"lat": 51.38383,
+"lon": 3.40052,
+"label": "Cadzand Badstrand"
+},
+{
+"name": "Callantsoog",
+"lat": 52.83832,
+"lon": 4.69049,
+"label": "Callantsoog"
+},
+{
+"name": "Camperduin",
+"lat": 52.71869,
+"lon": 4.63688,
+"label": "Camperduin"
+},
+{
+"name": "Camperduin Lagune",
+"lat": 52.72368,
+"lon": 4.63888,
+"label": "Camperduin Lagune"
+},
+{
+"name": "Camping 'T Grasbroek",
+"lat": 52.29824,
+"lon": 6.64912,
+"label": "Camping 'T Grasbroek"
+},
+{
+"name": "Camping 't Stepelerven",
+"lat": 52.18734,
+"lon": 6.75618,
+"label": "Camping 't Stepelerven"
+},
+{
+"name": "Camping BuitenRijk",
+"lat": 52.89626,
+"lon": 7.00087,
+"label": "Camping BuitenRijk"
+},
+{
+"name": "Camping De Bergvennen",
+"lat": 52.42495,
+"lon": 7.01096,
+"label": "Camping De Bergvennen"
+},
+{
+"name": "Camping De Hoogte",
+"lat": 52.83053,
+"lon": 6.1212,
+"label": "Camping De Hoogte"
+},
+{
+"name": "Camping De Kleine Wolf",
+"lat": 52.54358,
+"lon": 6.49026,
+"label": "Camping De Kleine Wolf"
+},
+{
+"name": "Camping De Klimberg",
+"lat": 52.56617,
+"lon": 6.55511,
+"label": "Camping De Klimberg"
+},
+{
+"name": "Camping De Midden Veluwe",
+"lat": 52.13899,
+"lon": 5.75947,
+"label": "Camping De Midden Veluwe"
+},
+{
+"name": "Camping De Poppe",
+"lat": 52.25549,
+"lon": 6.46133,
+"label": "Camping De Poppe"
+},
+{
+"name": "Camping De Rammelbeek",
+"lat": 52.42655,
+"lon": 6.99077,
+"label": "Camping De Rammelbeek"
+},
+{
+"name": "Camping De Roos",
+"lat": 52.51163,
+"lon": 6.51234,
+"label": "Camping De Roos"
+},
+{
+"name": "Camping De Schans",
+"lat": 51.83572,
+"lon": 5.49559,
+"label": "Camping De Schans"
+},
+{
+"name": "Camping de Tol",
+"lat": 52.35701,
+"lon": 5.79135,
+"label": "Camping de Tol"
+},
+{
+"name": "Camping En Groepsaccomodatie De Bovenberg",
+"lat": 52.26521,
+"lon": 6.52183,
+"label": "Camping En Groepsaccomodatie De Bovenberg"
+},
+{
+"name": "Camping Hunze Bulten",
+"lat": 53.06452,
+"lon": 6.756,
+"label": "Camping Hunze Bulten"
+},
+{
+"name": "Camping Ijsselstrand",
+"lat": 52.0321,
+"lon": 6.15994,
+"label": "Camping Ijsselstrand"
+},
+{
+"name": "Camping Klein Frankrijk",
+"lat": 51.34042,
+"lon": 5.53684,
+"label": "Camping Klein Frankrijk"
+},
+{
+"name": "Camping Lievelinge",
+"lat": 51.84543,
+"lon": 5.03674,
+"label": "Camping Lievelinge"
+},
+{
+"name": "Camping Plathuis, Bourtange",
+"lat": 53.00914,
+"lon": 7.18316,
+"label": "Camping Plathuis, Bourtange"
+},
+{
+"name": "Camping Wedderbergen, Wedde",
+"lat": 53.08201,
+"lon": 7.08257,
+"label": "Camping Wedderbergen, Wedde"
+},
+{
+"name": "Canadameer, Appelscha",
+"lat": 52.93539,
+"lon": 6.28133,
+"label": "Canadameer, Appelscha"
+},
+{
+"name": "Castricum",
+"lat": 52.55424,
+"lon": 4.60485,
+"label": "Castricum"
+},
+{
+"name": "Cattenbroek",
+"lat": 52.08542,
+"lon": 4.92191,
+"label": "Cattenbroek"
+},
+{
+"name": "Center Parcs Het Heijderbos",
+"lat": 51.67386,
+"lon": 5.99501,
+"label": "Center Parcs Het Heijderbos"
+},
+{
+"name": "Colijnsplaat Badstrand",
+"lat": 51.60381,
+"lon": 3.84116,
+"label": "Colijnsplaat Badstrand"
+},
+{
+"name": "Dagrecreatieterrein Klein Zwitserland, Sumar",
+"lat": 53.19308,
+"lon": 6.03101,
+"label": "Dagrecreatieterrein Klein Zwitserland, Sumar"
+},
+{
+"name": "Dagstrand Area X",
+"lat": 51.20582,
+"lon": 5.96651,
+"label": "Dagstrand Area X"
+},
+{
+"name": "Dagstrand Camping Breebronne",
+"lat": 51.3771,
+"lon": 6.06075,
+"label": "Dagstrand Camping Breebronne"
+},
+{
+"name": "Dagstrand De Grote Hegge",
+"lat": 51.15327,
+"lon": 5.8415,
+"label": "Dagstrand De Grote Hegge"
+},
+{
+"name": "Dagstrand De Kasteelse Bossen",
+"lat": 51.46814,
+"lon": 6.05913,
+"label": "Dagstrand De Kasteelse Bossen"
+},
+{
+"name": "Dagstrand Droompark Maasduinen",
+"lat": 51.30804,
+"lon": 6.14696,
+"label": "Dagstrand Droompark Maasduinen"
+},
+{
+"name": "Dagstrand Enode",
+"lat": 51.45599,
+"lon": 5.54698,
+"label": "Dagstrand Enode"
+},
+{
+"name": "Dagstrand Fun Beach",
+"lat": 51.178,
+"lon": 5.86325,
+"label": "Dagstrand Fun Beach"
+},
+{
+"name": "Dagstrand Het Meerdal",
+"lat": 51.45623,
+"lon": 5.94866,
+"label": "Dagstrand Het Meerdal"
+},
+{
+"name": "Dagstrand Peel Beach Heelderpeel",
+"lat": 51.19744,
+"lon": 5.88294,
+"label": "Dagstrand Peel Beach Heelderpeel"
+},
+{
+"name": "Dagstrand Recreatiepark De Leistert",
+"lat": 51.27602,
+"lon": 5.93156,
+"label": "Dagstrand Recreatiepark De Leistert"
+},
+{
+"name": "Dagstrand Resort Boschmolenplas",
+"lat": 51.18106,
+"lon": 5.87869,
+"label": "Dagstrand Resort Boschmolenplas"
+},
+{
+"name": "Dagstrand Seurenheide",
+"lat": 51.56617,
+"lon": 6.07579,
+"label": "Dagstrand Seurenheide"
+},
+{
+"name": "De Achterste Hoef",
+"lat": 51.34031,
+"lon": 5.23103,
+"label": "De Achterste Hoef"
+},
+{
+"name": "De Berenkuil",
+"lat": 52.94175,
+"lon": 6.6591,
+"label": "De Berenkuil"
+},
+{
+"name": "De Bisonbaai",
+"lat": 51.86659,
+"lon": 5.93399,
+"label": "De Bisonbaai"
+},
+{
+"name": "De Breuly",
+"lat": 51.91437,
+"lon": 6.07526,
+"label": "De Breuly"
+},
+{
+"name": "De Driesprong, Langelille",
+"lat": 52.85933,
+"lon": 5.85026,
+"label": "De Driesprong, Langelille"
+},
+{
+"name": "De Eems, Termunten",
+"lat": 53.30083,
+"lon": 7.04003,
+"label": "De Eems, Termunten"
+},
+{
+"name": "De Fontein",
+"lat": 52.08917,
+"lon": 6.62158,
+"label": "De Fontein"
+},
+{
+"name": "De Fruithof",
+"lat": 52.8293,
+"lon": 6.86489,
+"label": "De Fruithof"
+},
+{
+"name": "De Gouden Ham De Maaslanden",
+"lat": 51.83017,
+"lon": 5.5596,
+"label": "De Gouden Ham De Maaslanden"
+},
+{
+"name": "De Gouden Ham Hanzeland",
+"lat": 51.82652,
+"lon": 5.54617,
+"label": "De Gouden Ham Hanzeland"
+},
+{
+"name": "De Gouden Ham, \"Camping Het Groene Eiland\"",
+"lat": 51.8344,
+"lon": 5.54874,
+"label": "De Gouden Ham, \"Camping Het Groene Eiland\""
+},
+{
+"name": "De Hege Gerzen, Oudemirdum",
+"lat": 52.83318,
+"lon": 5.54447,
+"label": "De Hege Gerzen, Oudemirdum"
+},
+{
+"name": "De Heide, Heerenveen",
+"lat": 52.94078,
+"lon": 5.92128,
+"label": "De Heide, Heerenveen"
+},
+{
+"name": "De Hoge dijk Plas",
+"lat": 52.28636,
+"lon": 4.96597,
+"label": "De Hoge dijk Plas"
+},
+{
+"name": "De Hoge Waard, Camping Badstrand",
+"lat": 51.77994,
+"lon": 5.08032,
+"label": "De Hoge Waard, Camping Badstrand"
+},
+{
+"name": "De Holle Poarte, Makkum",
+"lat": 53.05074,
+"lon": 5.37762,
+"label": "De Holle Poarte, Makkum"
+},
+{
+"name": "De IJzeren Man kleine bad",
+"lat": 51.44891,
+"lon": 5.49985,
+"label": "De IJzeren Man kleine bad"
+},
+{
+"name": "De IJzeren Man, Eindhoven",
+"lat": 51.44934,
+"lon": 5.50115,
+"label": "De IJzeren Man, Eindhoven"
+},
+{
+"name": "De Kibbelkoele",
+"lat": 52.80861,
+"lon": 6.79264,
+"label": "De Kibbelkoele"
+},
+{
+"name": "De Kienehoef",
+"lat": 51.57915,
+"lon": 5.44113,
+"label": "De Kienehoef"
+},
+{
+"name": "De Kikker",
+"lat": 52.12921,
+"lon": 5.12966,
+"label": "De Kikker"
+},
+{
+"name": "De Kis Noord, Plas Brandt",
+"lat": 51.13935,
+"lon": 5.85864,
+"label": "De Kis Noord, Plas Brandt"
+},
+{
+"name": "De Kis Zuid, Plas Eiland",
+"lat": 51.1364,
+"lon": 5.85593,
+"label": "De Kis Zuid, Plas Eiland"
+},
+{
+"name": "De Klaverkampen",
+"lat": 52.7607,
+"lon": 6.22548,
+"label": "De Klaverkampen"
+},
+{
+"name": "De Kleine Moere",
+"lat": 52.93887,
+"lon": 6.68345,
+"label": "De Kleine Moere"
+},
+{
+"name": "De Koog",
+"lat": 53.10196,
+"lon": 4.75461,
+"label": "De Koog"
+},
+{
+"name": "De Krim",
+"lat": 53.16296,
+"lon": 4.81916,
+"label": "De Krim"
+},
+{
+"name": "De Kuil",
+"lat": 51.62133,
+"lon": 4.70506,
+"label": "De Kuil"
+},
+{
+"name": "De Kuilen Mill",
+"lat": 51.69626,
+"lon": 5.74415,
+"label": "De Kuilen Mill"
+},
+{
+"name": "De Kuilen Mill, Noordelijke Hoek van strand",
+"lat": 51.69991,
+"lon": 5.7465,
+"label": "De Kuilen Mill, Noordelijke Hoek van strand"
+},
+{
+"name": "De Langspier",
+"lat": 51.60384,
+"lon": 5.30091,
+"label": "De Langspier"
+},
+{
+"name": "De Langspier, Naturistenstrand",
+"lat": 51.60133,
+"lon": 5.30324,
+"label": "De Langspier, Naturistenstrand"
+},
+{
+"name": "De Leien, Rottevalle",
+"lat": 53.15643,
+"lon": 6.08035,
+"label": "De Leien, Rottevalle"
+},
+{
+"name": "De Lentse Plas",
+"lat": 51.87886,
+"lon": 5.8644,
+"label": "De Lentse Plas"
+},
+{
+"name": "De Maashorst, Grote Plas",
+"lat": 51.72979,
+"lon": 5.60758,
+"label": "De Maashorst, Grote Plas"
+},
+{
+"name": "De Maashorst, Kleine Plas",
+"lat": 51.73086,
+"lon": 5.60665,
+"label": "De Maashorst, Kleine Plas"
+},
+{
+"name": "De Meent",
+"lat": 51.94524,
+"lon": 5.28278,
+"label": "De Meent (51.945, 5.283)"
+},
+{
+"name": "De Meent",
+"lat": 52.1739,
+"lon": 5.03118,
+"label": "De Meent (52.174, 5.031)"
+},
+{
+"name": "De Mosterdpot",
+"lat": 51.81917,
+"lon": 4.99678,
+"label": "De Mosterdpot"
+},
+{
+"name": "De Neswaarden",
+"lat": 51.7858,
+"lon": 5.11533,
+"label": "De Neswaarden"
+},
+{
+"name": "De Oude Pol",
+"lat": 52.39249,
+"lon": 5.72625,
+"label": "De Oude Pol"
+},
+{
+"name": "De Piet Badstrand",
+"lat": 51.52987,
+"lon": 3.727,
+"label": "De Piet Badstrand"
+},
+{
+"name": "De Punt",
+"lat": 51.78001,
+"lon": 3.88508,
+"label": "De Punt"
+},
+{
+"name": "De Punt West",
+"lat": 51.78144,
+"lon": 3.8723,
+"label": "De Punt West"
+},
+{
+"name": "De Rietschoof",
+"lat": 51.77714,
+"lon": 5.1245,
+"label": "De Rietschoof"
+},
+{
+"name": "De Rotonde",
+"lat": 51.87697,
+"lon": 5.2127,
+"label": "De Rotonde"
+},
+{
+"name": "De Sellingerbeetse, Sellingen",
+"lat": 52.93817,
+"lon": 7.09053,
+"label": "De Sellingerbeetse, Sellingen"
+},
+{
+"name": "De Swanneblom, Slappeterp",
+"lat": 53.21875,
+"lon": 5.62913,
+"label": "De Swanneblom, Slappeterp"
+},
+{
+"name": "De Tien Heugten",
+"lat": 52.91153,
+"lon": 6.71504,
+"label": "De Tien Heugten"
+},
+{
+"name": "De Vledders",
+"lat": 53.07877,
+"lon": 6.66198,
+"label": "De Vledders"
+},
+{
+"name": "De Vlegge",
+"lat": 52.47244,
+"lon": 6.62719,
+"label": "De Vlegge"
+},
+{
+"name": "De Vleyen, Nes Ameland",
+"lat": 53.44856,
+"lon": 5.77906,
+"label": "De Vleyen, Nes Ameland"
+},
+{
+"name": "De Vlinderslag, Wolvega",
+"lat": 52.87863,
+"lon": 6.0216,
+"label": "De Vlinderslag, Wolvega"
+},
+{
+"name": "De Vogel",
+"lat": 51.33936,
+"lon": 3.98892,
+"label": "De Vogel"
+},
+{
+"name": "De Vrolijk",
+"lat": 52.2186,
+"lon": 6.34492,
+"label": "De Vrolijk"
+},
+{
+"name": "De Waaij",
+"lat": 51.95863,
+"lon": 5.9617,
+"label": "De Waaij"
+},
+{
+"name": "De Waal Heerjansdam",
+"lat": 51.84026,
+"lon": 4.56552,
+"label": "De Waal Heerjansdam"
+},
+{
+"name": "De Wiel",
+"lat": 51.88631,
+"lon": 5.10355,
+"label": "De Wiel"
+},
+{
+"name": "De Zandmeren Noord",
+"lat": 51.76573,
+"lon": 5.34718,
+"label": "De Zandmeren Noord"
+},
+{
+"name": "De Zandmeren West",
+"lat": 51.76371,
+"lon": 5.34739,
+"label": "De Zandmeren West"
+},
+{
+"name": "De Zandpol",
+"lat": 52.69569,
+"lon": 6.85391,
+"label": "De Zandpol"
+},
+{
+"name": "Delfstrahuizen, Delfstrahuizen",
+"lat": 52.87833,
+"lon": 5.81595,
+"label": "Delfstrahuizen, Delfstrahuizen"
+},
+{
+"name": "Delftse Hout",
+"lat": 52.02316,
+"lon": 4.37808,
+"label": "Delftse Hout"
+},
+{
+"name": "Den Bommel Badstrand",
+"lat": 51.72111,
+"lon": 4.28164,
+"label": "Den Bommel Badstrand"
+},
+{
+"name": "Den Haag Kijkduin",
+"lat": 52.07113,
+"lon": 4.21992,
+"label": "Den Haag Kijkduin"
+},
+{
+"name": "Den Osse Badstrand",
+"lat": 51.74098,
+"lon": 3.89526,
+"label": "Den Osse Badstrand"
+},
+{
+"name": "Diemerpark",
+"lat": 52.35463,
+"lon": 4.98699,
+"label": "Diemerpark"
+},
+{
+"name": "Dierenbos, Noordzijde midden in de plas",
+"lat": 51.70591,
+"lon": 5.42931,
+"label": "Dierenbos, Noordzijde midden in de plas"
+},
+{
+"name": "Dijkstrand Urk",
+"lat": 52.66325,
+"lon": 5.59266,
+"label": "Dijkstrand Urk"
+},
+{
+"name": "Dilkensplas",
+"lat": 51.11132,
+"lon": 5.81591,
+"label": "Dilkensplas"
+},
+{
+"name": "Dobbeplas",
+"lat": 52.03439,
+"lon": 4.40142,
+"label": "Dobbeplas"
+},
+{
+"name": "Dolfinarium",
+"lat": 52.35612,
+"lon": 5.61424,
+"label": "Dolfinarium"
+},
+{
+"name": "Domburg Badstrand",
+"lat": 51.56794,
+"lon": 3.498,
+"label": "Domburg Badstrand"
+},
+{
+"name": "Dorregeest",
+"lat": 52.53218,
+"lon": 4.72338,
+"label": "Dorregeest"
+},
+{
+"name": "Down Under (Plas Laagraven)",
+"lat": 52.0477,
+"lon": 5.12547,
+"label": "Down Under (Plas Laagraven)"
+},
+{
+"name": "Drakenrijk",
+"lat": 51.26872,
+"lon": 6.07657,
+"label": "Drakenrijk"
+},
+{
+"name": "Drentse Weelde",
+"lat": 52.9119,
+"lon": 6.38514,
+"label": "Drentse Weelde"
+},
+{
+"name": "Duinmeertje Hee, Terschelling",
+"lat": 53.38024,
+"lon": 5.25438,
+"label": "Duinmeertje Hee, Terschelling"
+},
+{
+"name": "Edam.",
+"lat": 52.52004,
+"lon": 5.07102,
+"label": "Edam."
+},
+{
+"name": "Eeltsjemar, Rinsumageast",
+"lat": 53.28217,
+"lon": 5.93735,
+"label": "Eeltsjemar, Rinsumageast"
+},
+{
+"name": "Egmond aan Zee",
+"lat": 52.59603,
+"lon": 4.61553,
+"label": "Egmond aan Zee"
+},
+{
+"name": "Elahuizen De Lange Hoek, Elahuizen",
+"lat": 52.9394,
+"lon": 5.56317,
+"label": "Elahuizen De Lange Hoek, Elahuizen"
+},
+{
+"name": "Ellerstrand",
+"lat": 52.43159,
+"lon": 5.78367,
+"label": "Ellerstrand"
+},
+{
+"name": "Engelermeer, Oostzijde",
+"lat": 51.70691,
+"lon": 5.249,
+"label": "Engelermeer, Oostzijde"
+},
+{
+"name": "Engelermeer, Westzijde",
+"lat": 51.70368,
+"lon": 5.24376,
+"label": "Engelermeer, Westzijde"
+},
+{
+"name": "Enkhuizerzand",
+"lat": 52.71171,
+"lon": 5.2931,
+"label": "Enkhuizerzand"
+},
+{
+"name": "Erkemederstrand",
+"lat": 52.26898,
+"lon": 5.50121,
+"label": "Erkemederstrand"
+},
+{
+"name": "Ermerstrand",
+"lat": 52.74677,
+"lon": 6.79921,
+"label": "Ermerstrand"
+},
+{
+"name": "Ermerzand",
+"lat": 52.74699,
+"lon": 6.80651,
+"label": "Ermerzand"
+},
+{
+"name": "EuroParcs Bad Hoophuizen",
+"lat": 52.38525,
+"lon": 5.70637,
+"label": "EuroParcs Bad Hoophuizen"
+},
+{
+"name": "EuroParcs De Zanding",
+"lat": 52.09233,
+"lon": 5.77893,
+"label": "EuroParcs De Zanding"
+},
+{
+"name": "Europarcs Kagerplassen",
+"lat": 52.20102,
+"lon": 4.55365,
+"label": "Europarcs Kagerplassen"
+},
+{
+"name": "EuroParcs Limburg",
+"lat": 51.06789,
+"lon": 5.88652,
+"label": "EuroParcs Limburg"
+},
+{
+"name": "EuroParcs Marina Strandbad",
+"lat": 52.03553,
+"lon": 6.13572,
+"label": "EuroParcs Marina Strandbad"
+},
+{
+"name": "EuroParcs Resort De Achterhoek",
+"lat": 52.13847,
+"lon": 6.38191,
+"label": "EuroParcs Resort De Achterhoek"
+},
+{
+"name": "Fantasiestrand, Weerwater",
+"lat": 52.35907,
+"lon": 5.2155,
+"label": "Fantasiestrand, Weerwater"
+},
+{
+"name": "Gaasperplas Noord",
+"lat": 52.30974,
+"lon": 4.98827,
+"label": "Gaasperplas Noord"
+},
+{
+"name": "Gaasperplas Zuid",
+"lat": 52.30374,
+"lon": 4.9961,
+"label": "Gaasperplas Zuid"
+},
+{
+"name": "Galderse Meren Surfplas in Z.W. hoek",
+"lat": 51.52058,
+"lon": 4.75224,
+"label": "Galderse Meren Surfplas in Z.W. hoek"
+},
+{
+"name": "Galderse Meren Zwemplas N.O. hoek",
+"lat": 51.52489,
+"lon": 4.75759,
+"label": "Galderse Meren Zwemplas N.O. hoek"
+},
+{
+"name": "Galderse Meren, Zwemplas",
+"lat": 51.52309,
+"lon": 4.75238,
+"label": "Galderse Meren, Zwemplas"
+},
+{
+"name": "Gat Van Cortenoever",
+"lat": 52.09904,
+"lon": 6.16916,
+"label": "Gat Van Cortenoever"
+},
+{
+"name": "Gat van de Kerksloot, Badstrand",
+"lat": 51.72402,
+"lon": 4.77093,
+"label": "Gat van de Kerksloot, Badstrand"
+},
+{
+"name": "Geestmerambacht baai 1",
+"lat": 52.69132,
+"lon": 4.76689,
+"label": "Geestmerambacht baai 1"
+},
+{
+"name": "Geestmerambacht baai 2",
+"lat": 52.68975,
+"lon": 4.7709,
+"label": "Geestmerambacht baai 2"
+},
+{
+"name": "Geestmerambacht baai 3",
+"lat": 52.69058,
+"lon": 4.76991,
+"label": "Geestmerambacht baai 3"
+},
+{
+"name": "Geestmerambacht baai 4",
+"lat": 52.68549,
+"lon": 4.77157,
+"label": "Geestmerambacht baai 4"
+},
+{
+"name": "Geestmerambacht baai 5",
+"lat": 52.68329,
+"lon": 4.77486,
+"label": "Geestmerambacht baai 5"
+},
+{
+"name": "Geestmerambacht baai 6",
+"lat": 52.68078,
+"lon": 4.77468,
+"label": "Geestmerambacht baai 6"
+},
+{
+"name": "Geestmerambacht baai 7",
+"lat": 52.68025,
+"lon": 4.77436,
+"label": "Geestmerambacht baai 7"
+},
+{
+"name": "Geestmerambacht baai 8",
+"lat": 52.68117,
+"lon": 4.765,
+"label": "Geestmerambacht baai 8"
+},
+{
+"name": "Geffense Plas",
+"lat": 51.74056,
+"lon": 5.4966,
+"label": "Geffense Plas"
+},
+{
+"name": "Gravenbol",
+"lat": 51.97221,
+"lon": 5.38069,
+"label": "Gravenbol"
+},
+{
+"name": "Grevelingendam Badstrand",
+"lat": 51.6789,
+"lon": 4.12049,
+"label": "Grevelingendam Badstrand"
+},
+{
+"name": "Grevelingendam Plaat Van Oude Tonge Badstrand",
+"lat": 51.6756,
+"lon": 4.1397,
+"label": "Grevelingendam Plaat Van Oude Tonge Badstrand"
+},
+{
+"name": "Groene Heuvels",
+"lat": 51.8465,
+"lon": 5.69102,
+"label": "Groene Heuvels"
+},
+{
+"name": "Groepsaccommodatie De Kievit",
+"lat": 51.44426,
+"lon": 5.16781,
+"label": "Groepsaccommodatie De Kievit"
+},
+{
+"name": "Groote Keeten",
+"lat": 52.86299,
+"lon": 4.70096,
+"label": "Groote Keeten"
+},
+{
+"name": "Groote Wielen",
+"lat": 51.73615,
+"lon": 5.36323,
+"label": "Groote Wielen"
+},
+{
+"name": "Grote Rietplas - Parelstrand",
+"lat": 52.73602,
+"lon": 6.90562,
+"label": "Grote Rietplas - Parelstrand"
+},
+{
+"name": "Grote Rietplas - Rietstrand",
+"lat": 52.73944,
+"lon": 6.90409,
+"label": "Grote Rietplas - Rietstrand"
+},
+{
+"name": "Grote Rietplas - Watersportstrand",
+"lat": 52.73532,
+"lon": 6.8908,
+"label": "Grote Rietplas - Watersportstrand"
+},
+{
+"name": "Grote Vlak",
+"lat": 53.03147,
+"lon": 4.71129,
+"label": "Grote Vlak"
+},
+{
+"name": "Grunostrand, Harkstede",
+"lat": 53.21451,
+"lon": 6.66217,
+"label": "Grunostrand, Harkstede"
+},
+{
+"name": "Grutte Wielen, Leeuwarden",
+"lat": 53.21903,
+"lon": 5.86946,
+"label": "Grutte Wielen, Leeuwarden"
+},
+{
+"name": "Haarlemmermeerse Bos Plas",
+"lat": 52.32518,
+"lon": 4.6707,
+"label": "Haarlemmermeerse Bos Plas"
+},
+{
+"name": "Haarlemmermeerse Bos vijver",
+"lat": 52.32516,
+"lon": 4.6645,
+"label": "Haarlemmermeerse Bos vijver"
+},
+{
+"name": "Haarrijnse Plas",
+"lat": 52.11628,
+"lon": 5.02326,
+"label": "Haarrijnse Plas"
+},
+{
+"name": "Hambroekplas",
+"lat": 52.11492,
+"lon": 6.54092,
+"label": "Hambroekplas"
+},
+{
+"name": "Harderstrand",
+"lat": 52.37979,
+"lon": 5.62826,
+"label": "Harderstrand"
+},
+{
+"name": "Harderwijkerzand",
+"lat": 52.30158,
+"lon": 5.27958,
+"label": "Harderwijkerzand"
+},
+{
+"name": "Haringvlietbrug Oost",
+"lat": 51.72169,
+"lon": 4.40709,
+"label": "Haringvlietbrug Oost"
+},
+{
+"name": "Haringvlietbrug West",
+"lat": 51.72248,
+"lon": 4.40347,
+"label": "Haringvlietbrug West"
+},
+{
+"name": "Harlingerstrand, Harlingen",
+"lat": 53.16758,
+"lon": 5.41234,
+"label": "Harlingerstrand, Harlingen"
+},
+{
+"name": "Hartje Groen",
+"lat": 51.72654,
+"lon": 5.63457,
+"label": "Hartje Groen"
+},
+{
+"name": "Havenstrand Markerwadden",
+"lat": 52.58366,
+"lon": 5.36377,
+"label": "Havenstrand Markerwadden"
+},
+{
+"name": "Heeg, Heeg",
+"lat": 52.96446,
+"lon": 5.60544,
+"label": "Heeg, Heeg"
+},
+{
+"name": "Heerderstrand I Zuid",
+"lat": 52.39935,
+"lon": 6.01131,
+"label": "Heerderstrand I Zuid"
+},
+{
+"name": "Heerderstrand II Noord",
+"lat": 52.40227,
+"lon": 6.01139,
+"label": "Heerderstrand II Noord"
+},
+{
+"name": "Heeresveld, Nieuwe Pekela",
+"lat": 53.08244,
+"lon": 6.95617,
+"label": "Heeresveld, Nieuwe Pekela"
+},
+{
+"name": "Heeswijkse Kampen",
+"lat": 51.74583,
+"lon": 5.85295,
+"label": "Heeswijkse Kampen"
+},
+{
+"name": "Heezerenbosch",
+"lat": 51.37758,
+"lon": 5.5499,
+"label": "Heezerenbosch"
+},
+{
+"name": "Heidepark Lemelerveld",
+"lat": 52.44175,
+"lon": 6.35136,
+"label": "Heidepark Lemelerveld"
+},
+{
+"name": "Heische Tip",
+"lat": 51.6947,
+"lon": 5.65775,
+"label": "Heische Tip"
+},
+{
+"name": "Hemelrijk Grote Plas Noordzijde",
+"lat": 51.63645,
+"lon": 5.67472,
+"label": "Hemelrijk Grote Plas Noordzijde"
+},
+{
+"name": "Hemelrijk Zwemzone 2",
+"lat": 51.63161,
+"lon": 5.68273,
+"label": "Hemelrijk Zwemzone 2"
+},
+{
+"name": "Hemelrijkse Waard, Dagstrand",
+"lat": 51.80195,
+"lon": 5.47566,
+"label": "Hemelrijkse Waard, Dagstrand"
+},
+{
+"name": "Henschotermeer (Noordzijde), Woudenberg",
+"lat": 52.08163,
+"lon": 5.37596,
+"label": "Henschotermeer (Noordzijde), Woudenberg"
+},
+{
+"name": "Henschotermeer (Zuidzijde), Woudenberg",
+"lat": 52.08013,
+"lon": 5.37487,
+"label": "Henschotermeer (Zuidzijde), Woudenberg"
+},
+{
+"name": "Herkingen Badstrand",
+"lat": 51.70808,
+"lon": 4.0797,
+"label": "Herkingen Badstrand"
+},
+{
+"name": "Het Baksche Ven",
+"lat": 51.55213,
+"lon": 5.14067,
+"label": "Het Baksche Ven"
+},
+{
+"name": "Het Belevenissenbos Lelystad",
+"lat": 52.54175,
+"lon": 5.47568,
+"label": "Het Belevenissenbos Lelystad"
+},
+{
+"name": "Het blauwe meertje",
+"lat": 51.23424,
+"lon": 5.645,
+"label": "Het blauwe meertje"
+},
+{
+"name": "Het Groene Eiland Strand Maasboulevard",
+"lat": 51.83447,
+"lon": 5.55444,
+"label": "Het Groene Eiland Strand Maasboulevard"
+},
+{
+"name": "Het Lageveld; Kleutervijver",
+"lat": 52.3817,
+"lon": 6.58859,
+"label": "Het Lageveld; Kleutervijver"
+},
+{
+"name": "Het Lageveld; Zwemvijver",
+"lat": 52.38131,
+"lon": 6.5902,
+"label": "Het Lageveld; Zwemvijver"
+},
+{
+"name": "Het Rutbeek; Infocentrum",
+"lat": 52.17933,
+"lon": 6.83644,
+"label": "Het Rutbeek; Infocentrum"
+},
+{
+"name": "Het Rutbeek; Kiosk",
+"lat": 52.18183,
+"lon": 6.84135,
+"label": "Het Rutbeek; Kiosk"
+},
+{
+"name": "Het Rutbeek; Paviljoen",
+"lat": 52.17861,
+"lon": 6.83321,
+"label": "Het Rutbeek; Paviljoen"
+},
+{
+"name": "Het Wolfsven",
+"lat": 51.43808,
+"lon": 5.58383,
+"label": "Het Wolfsven"
+},
+{
+"name": "Het Zwin Duinlaan Badstrand",
+"lat": 51.37545,
+"lon": 3.3747,
+"label": "Het Zwin Duinlaan Badstrand"
+},
+{
+"name": "Hetersche Waarden",
+"lat": 51.96352,
+"lon": 5.74788,
+"label": "Hetersche Waarden"
+},
+{
+"name": "Hexelse Plas Bungalowpark Hoge Hexel",
+"lat": 52.3852,
+"lon": 6.55564,
+"label": "Hexelse Plas Bungalowpark Hoge Hexel"
+},
+{
+"name": "Hitsertsekade Zuid-Beijerland",
+"lat": 51.73619,
+"lon": 4.36792,
+"label": "Hitsertsekade Zuid-Beijerland"
+},
+{
+"name": "Hoek van Holland",
+"lat": 51.99043,
+"lon": 4.1072,
+"label": "Hoek van Holland"
+},
+{
+"name": "Hof van Capelle",
+"lat": 51.69316,
+"lon": 4.99111,
+"label": "Hof van Capelle"
+},
+{
+"name": "Hof van Saksen",
+"lat": 52.96453,
+"lon": 6.67344,
+"label": "Hof van Saksen"
+},
+{
+"name": "Hoge Dijk Speelsloot",
+"lat": 52.28652,
+"lon": 4.96464,
+"label": "Hoge Dijk Speelsloot"
+},
+{
+"name": "Honswijkerplas",
+"lat": 51.98965,
+"lon": 5.14677,
+"label": "Honswijkerplas"
+},
+{
+"name": "Hooge Oude Veer",
+"lat": 52.85187,
+"lon": 4.81251,
+"label": "Hooge Oude Veer"
+},
+{
+"name": "Hoorn-Noord",
+"lat": 52.63982,
+"lon": 5.04666,
+"label": "Hoorn-Noord"
+},
+{
+"name": "Hoorn-Zuid",
+"lat": 52.63766,
+"lon": 5.04345,
+"label": "Hoorn-Zuid"
+},
+{
+"name": "Hoornseplas, Groningen",
+"lat": 53.17722,
+"lon": 6.55276,
+"label": "Hoornseplas, Groningen"
+},
+{
+"name": "Houtribhoek",
+"lat": 52.54767,
+"lon": 5.45426,
+"label": "Houtribhoek"
+},
+{
+"name": "Huisduinen",
+"lat": 52.94028,
+"lon": 4.7154,
+"label": "Huisduinen"
+},
+{
+"name": "Huizen",
+"lat": 52.30713,
+"lon": 5.25876,
+"label": "Huizen"
+},
+{
+"name": "Hulsbeek; Strand 1",
+"lat": 52.30612,
+"lon": 6.89167,
+"label": "Hulsbeek; Strand 1"
+},
+{
+"name": "Hulsbeek; Strand 2",
+"lat": 52.30616,
+"lon": 6.8875,
+"label": "Hulsbeek; Strand 2"
+},
+{
+"name": "Hulsbeek; Strand 3",
+"lat": 52.3044,
+"lon": 6.88542,
+"label": "Hulsbeek; Strand 3"
+},
+{
+"name": "Ieberenplas",
+"lat": 52.90499,
+"lon": 6.67249,
+"label": "Ieberenplas"
+},
+{
+"name": "IJburg",
+"lat": 52.35805,
+"lon": 5.01284,
+"label": "IJburg"
+},
+{
+"name": "IJmuiden",
+"lat": 52.46135,
+"lon": 4.5637,
+"label": "IJmuiden"
+},
+{
+"name": "IJzeren Man Bad",
+"lat": 51.65167,
+"lon": 5.25551,
+"label": "IJzeren Man Bad"
+},
+{
+"name": "IJzeren Man Boulevard",
+"lat": 51.65047,
+"lon": 5.25915,
+"label": "IJzeren Man Boulevard"
+},
+{
+"name": "Indijk, Indijk",
+"lat": 52.94596,
+"lon": 5.59945,
+"label": "Indijk, Indijk"
+},
+{
+"name": "It Soal, Workum",
+"lat": 52.966,
+"lon": 5.41089,
+"label": "It Soal, Workum"
+},
+{
+"name": "It Suderstrand, Stavoren",
+"lat": 52.87209,
+"lon": 5.36944,
+"label": "It Suderstrand, Stavoren"
+},
+{
+"name": "It Wiid Earnewâld, Earnewâld",
+"lat": 53.13127,
+"lon": 5.95578,
+"label": "It Wiid Earnewâld, Earnewâld"
+},
+{
+"name": "Jagersveld Fuut & Watersnip",
+"lat": 52.46351,
+"lon": 4.83357,
+"label": "Jagersveld Fuut & Watersnip"
+},
+{
+"name": "Jagersveld Kuifeend",
+"lat": 52.4641,
+"lon": 4.83834,
+"label": "Jagersveld Kuifeend"
+},
+{
+"name": "Jagersveld Smient",
+"lat": 52.46165,
+"lon": 4.8312,
+"label": "Jagersveld Smient"
+},
+{
+"name": "Julianadorp",
+"lat": 52.90479,
+"lon": 4.71039,
+"label": "Julianadorp"
+},
+{
+"name": "Julianapark",
+"lat": 52.64084,
+"lon": 5.07683,
+"label": "Julianapark"
+},
+{
+"name": "Kaageiland",
+"lat": 52.21606,
+"lon": 4.55767,
+"label": "Kaageiland"
+},
+{
+"name": "Kabbelaarsbank Grevelingen",
+"lat": 51.75256,
+"lon": 3.85989,
+"label": "Kabbelaarsbank Grevelingen"
+},
+{
+"name": "Kagerplassen 't Joppe Merenwijk",
+"lat": 52.18746,
+"lon": 4.5191,
+"label": "Kagerplassen 't Joppe Merenwijk"
+},
+{
+"name": "Kagerplassen 't Joppe Westoever",
+"lat": 52.19422,
+"lon": 4.50829,
+"label": "Kagerplassen 't Joppe Westoever"
+},
+{
+"name": "Kalenbergse Plas",
+"lat": 51.86851,
+"lon": 5.28514,
+"label": "Kalenbergse Plas"
+},
+{
+"name": "Kamperland De Banjaard Badstrand",
+"lat": 51.59487,
+"lon": 3.66201,
+"label": "Kamperland De Banjaard Badstrand"
+},
+{
+"name": "Kamperland De Roompot Badstrand",
+"lat": 51.59361,
+"lon": 3.72846,
+"label": "Kamperland De Roompot Badstrand"
+},
+{
+"name": "Kamperland Sint Felixweg Badstrand",
+"lat": 51.55309,
+"lon": 3.69224,
+"label": "Kamperland Sint Felixweg Badstrand"
+},
+{
+"name": "Katse Veer Badstrand",
+"lat": 51.54104,
+"lon": 3.86838,
+"label": "Katse Veer Badstrand"
+},
+{
+"name": "Katwijk aan Zee Boulevard Noord",
+"lat": 52.21527,
+"lon": 4.40137,
+"label": "Katwijk aan Zee Boulevard Noord"
+},
+{
+"name": "Katwijk aan Zee Boulevard Zuid",
+"lat": 52.20331,
+"lon": 4.39023,
+"label": "Katwijk aan Zee Boulevard Zuid"
+},
+{
+"name": "Kemperpark, Bellingwolde",
+"lat": 53.10032,
+"lon": 7.16543,
+"label": "Kemperpark, Bellingwolde"
+},
+{
+"name": "Kemperplas",
+"lat": 51.91723,
+"lon": 6.30682,
+"label": "Kemperplas"
+},
+{
+"name": "Kempervennen (strandbad)",
+"lat": 51.32673,
+"lon": 5.42198,
+"label": "Kempervennen (strandbad)"
+},
+{
+"name": "Kempervennen Aquapark",
+"lat": 51.32713,
+"lon": 5.4247,
+"label": "Kempervennen Aquapark"
+},
+{
+"name": "Kennemerstrand",
+"lat": 52.45284,
+"lon": 4.55645,
+"label": "Kennemerstrand"
+},
+{
+"name": "Kievitsveld",
+"lat": 52.31112,
+"lon": 5.99992,
+"label": "Kievitsveld"
+},
+{
+"name": "Kleine Rietplas",
+"lat": 52.74358,
+"lon": 6.88861,
+"label": "Kleine Rietplas"
+},
+{
+"name": "Kleipoel",
+"lat": 52.20248,
+"lon": 4.5888,
+"label": "Kleipoel"
+},
+{
+"name": "Klinkenbergerplas Noordwestoever",
+"lat": 52.19932,
+"lon": 4.48581,
+"label": "Klinkenbergerplas Noordwestoever"
+},
+{
+"name": "Klinkenbergerplas Westoever",
+"lat": 52.19515,
+"lon": 4.4861,
+"label": "Klinkenbergerplas Westoever"
+},
+{
+"name": "Klinkenvlierse Plas",
+"lat": 52.65222,
+"lon": 6.77037,
+"label": "Klinkenvlierse Plas"
+},
+{
+"name": "Koetshuis, Borgerswold Veendam",
+"lat": 53.1052,
+"lon": 6.84914,
+"label": "Koetshuis, Borgerswold Veendam"
+},
+{
+"name": "Kolkbad Den Nul",
+"lat": 52.36385,
+"lon": 6.11056,
+"label": "Kolkbad Den Nul"
+},
+{
+"name": "Kortgene (westbermweg) Badstrand",
+"lat": 51.55028,
+"lon": 3.78763,
+"label": "Kortgene (westbermweg) Badstrand"
+},
+{
+"name": "Kortgene Paardekreek badstrand",
+"lat": 51.54973,
+"lon": 3.80945,
+"label": "Kortgene Paardekreek badstrand"
+},
+{
+"name": "Kotermeerstal Zuid Bij Strand",
+"lat": 52.59177,
+"lon": 6.4644,
+"label": "Kotermeerstal Zuid Bij Strand"
+},
+{
+"name": "Kraaijenbergse Plas 2",
+"lat": 51.75307,
+"lon": 5.83276,
+"label": "Kraaijenbergse Plas 2"
+},
+{
+"name": "Kraaijenbergse Plas 3",
+"lat": 51.75187,
+"lon": 5.82318,
+"label": "Kraaijenbergse Plas 3"
+},
+{
+"name": "Kraaijenbergse plas Beers",
+"lat": 51.72958,
+"lon": 5.82543,
+"label": "Kraaijenbergse plas Beers"
+},
+{
+"name": "Kraaijenbergse plas Op den Drul",
+"lat": 51.74006,
+"lon": 5.83935,
+"label": "Kraaijenbergse plas Op den Drul"
+},
+{
+"name": "Krabbendijke Roelshoek Badstrand",
+"lat": 51.43651,
+"lon": 4.12531,
+"label": "Krabbendijke Roelshoek Badstrand"
+},
+{
+"name": "Krabbeplas Oostzijde",
+"lat": 51.91563,
+"lon": 4.30352,
+"label": "Krabbeplas Oostzijde"
+},
+{
+"name": "Kralinger Esch",
+"lat": 51.91383,
+"lon": 4.52518,
+"label": "Kralinger Esch"
+},
+{
+"name": "Kralingse Plas",
+"lat": 51.93834,
+"lon": 4.50969,
+"label": "Kralingse Plas"
+},
+{
+"name": "Krammersluis Laagbekken Badstrand",
+"lat": 51.64919,
+"lon": 4.17376,
+"label": "Krammersluis Laagbekken Badstrand"
+},
+{
+"name": "Kroeze Danne",
+"lat": 52.2628,
+"lon": 6.66374,
+"label": "Kroeze Danne"
+},
+{
+"name": "Kudelstaart",
+"lat": 52.23543,
+"lon": 4.74347,
+"label": "Kudelstaart"
+},
+{
+"name": "Kurenpolder, Zwemplas",
+"lat": 51.72837,
+"lon": 4.88188,
+"label": "Kurenpolder, Zwemplas"
+},
+{
+"name": "Laakse Strand",
+"lat": 52.25547,
+"lon": 5.42889,
+"label": "Laakse Strand"
+},
+{
+"name": "Laarse Heide",
+"lat": 51.48011,
+"lon": 4.70328,
+"label": "Laarse Heide"
+},
+{
+"name": "Lammetjeswiel",
+"lat": 51.86587,
+"lon": 4.6487,
+"label": "Lammetjeswiel"
+},
+{
+"name": "Landal Klein Oisterwijk",
+"lat": 51.55036,
+"lon": 5.2282,
+"label": "Landal Klein Oisterwijk"
+},
+{
+"name": "Landal Landgoed 'T Loo",
+"lat": 52.43891,
+"lon": 5.95079,
+"label": "Landal Landgoed 'T Loo"
+},
+{
+"name": "Landgoed Bourtange, Sellingen",
+"lat": 52.94588,
+"lon": 7.127,
+"label": "Landgoed Bourtange, Sellingen"
+},
+{
+"name": "Landgoedcamping Het Meuleman",
+"lat": 52.33306,
+"lon": 7.03043,
+"label": "Landgoedcamping Het Meuleman"
+},
+{
+"name": "Langwarder Wielen, Langweer",
+"lat": 52.96282,
+"lon": 5.72157,
+"label": "Langwarder Wielen, Langweer"
+},
+{
+"name": "Lauwersmeer Oostmahorn, Oostmahorn",
+"lat": 53.37513,
+"lon": 6.16438,
+"label": "Lauwersmeer Oostmahorn, Oostmahorn"
+},
+{
+"name": "Lauwersmeer, strand Lepelaar",
+"lat": 53.40053,
+"lon": 6.21257,
+"label": "Lauwersmeer, strand Lepelaar"
+},
+{
+"name": "Lauwersmeer, strand Meerkoet",
+"lat": 53.40156,
+"lon": 6.21006,
+"label": "Lauwersmeer, strand Meerkoet"
+},
+{
+"name": "Leijen",
+"lat": 52.65636,
+"lon": 4.8734,
+"label": "Leijen"
+},
+{
+"name": "Lemsterstrand, Lemmer",
+"lat": 52.84324,
+"lon": 5.69839,
+"label": "Lemsterstrand, Lemmer"
+},
+{
+"name": "Lettelberterplas, Lettelbert",
+"lat": 53.19173,
+"lon": 6.411,
+"label": "Lettelberterplas, Lettelbert"
+},
+{
+"name": "Lingebos",
+"lat": 51.84642,
+"lon": 5.03305,
+"label": "Lingebos"
+},
+{
+"name": "Lithse Ham, Dagstrand",
+"lat": 51.80849,
+"lon": 5.40502,
+"label": "Lithse Ham, Dagstrand"
+},
+{
+"name": "Lithse Ham, Gemeentestrand",
+"lat": 51.81555,
+"lon": 5.41341,
+"label": "Lithse Ham, Gemeentestrand"
+},
+{
+"name": "Loosdrechtse plassen Markus Pos",
+"lat": 52.19236,
+"lon": 5.07696,
+"label": "Loosdrechtse plassen Markus Pos"
+},
+{
+"name": "Loosdrechtse Plassen Meent",
+"lat": 52.1754,
+"lon": 5.05398,
+"label": "Loosdrechtse Plassen Meent"
+},
+{
+"name": "Loosdrechtse plassen peuterbad Strook",
+"lat": 52.16909,
+"lon": 5.05825,
+"label": "Loosdrechtse plassen peuterbad Strook"
+},
+{
+"name": "Loosdrechtse plassen Strook",
+"lat": 52.16943,
+"lon": 5.05861,
+"label": "Loosdrechtse plassen Strook"
+},
+{
+"name": "Loosdrechtse plassen Vuntus",
+"lat": 52.20867,
+"lon": 5.08123,
+"label": "Loosdrechtse plassen Vuntus"
+},
+{
+"name": "Lumièrestrand, Weerwater",
+"lat": 52.36207,
+"lon": 5.23454,
+"label": "Lumièrestrand, Weerwater"
+},
+{
+"name": "Lutjestrand",
+"lat": 52.88768,
+"lon": 4.91352,
+"label": "Lutjestrand"
+},
+{
+"name": "Lytse Wielen, Leeuwarden",
+"lat": 53.21415,
+"lon": 5.87153,
+"label": "Lytse Wielen, Leeuwarden"
+},
+{
+"name": "Maarsseveense Plassen Strandbad",
+"lat": 52.14413,
+"lon": 5.08308,
+"label": "Maarsseveense Plassen Strandbad"
+},
+{
+"name": "Maarsseveense Plassen Zuidhoek",
+"lat": 52.1389,
+"lon": 5.09468,
+"label": "Maarsseveense Plassen Zuidhoek"
+},
+{
+"name": "Marineterrein",
+"lat": 52.37299,
+"lon": 4.91546,
+"label": "Marineterrein"
+},
+{
+"name": "Marken",
+"lat": 52.4573,
+"lon": 5.09867,
+"label": "Marken"
+},
+{
+"name": "Meeroevers Meerstad",
+"lat": 53.22233,
+"lon": 6.65875,
+"label": "Meeroevers Meerstad"
+},
+{
+"name": "Meerse Plas",
+"lat": 51.67943,
+"lon": 5.35585,
+"label": "Meerse Plas"
+},
+{
+"name": "Middelharnis Badstrand",
+"lat": 51.77227,
+"lon": 4.19416,
+"label": "Middelharnis Badstrand"
+},
+{
+"name": "Middelwaard",
+"lat": 51.99386,
+"lon": 5.07575,
+"label": "Middelwaard"
+},
+{
+"name": "Milligerplas",
+"lat": 52.54524,
+"lon": 6.05651,
+"label": "Milligerplas"
+},
+{
+"name": "Mirnser Klif, Mirns",
+"lat": 52.85043,
+"lon": 5.48125,
+"label": "Mirnser Klif, Mirns"
+},
+{
+"name": "Moekesgat, Ter Apel",
+"lat": 52.88367,
+"lon": 7.05882,
+"label": "Moekesgat, Ter Apel"
+},
+{
+"name": "Molenplas",
+"lat": 52.34387,
+"lon": 4.65337,
+"label": "Molenplas"
+},
+{
+"name": "Molkwerum, Molkwerum",
+"lat": 52.90608,
+"lon": 5.39741,
+"label": "Molkwerum, Molkwerum"
+},
+{
+"name": "Monnickendam",
+"lat": 52.45608,
+"lon": 5.05102,
+"label": "Monnickendam"
+},
+{
+"name": "Monster Ter Heijde",
+"lat": 52.03319,
+"lon": 4.16771,
+"label": "Monster Ter Heijde"
+},
+{
+"name": "Muiderberg",
+"lat": 52.32963,
+"lon": 5.1186,
+"label": "Muiderberg"
+},
+{
+"name": "Naarderbos",
+"lat": 52.317,
+"lon": 5.14517,
+"label": "Naarderbos"
+},
+{
+"name": "Nannewiid, Oudehaske",
+"lat": 52.95096,
+"lon": 5.87164,
+"label": "Nannewiid, Oudehaske"
+},
+{
+"name": "Nat. Recreatiepark Elsendorp",
+"lat": 51.57716,
+"lon": 5.77745,
+"label": "Nat. Recreatiepark Elsendorp"
+},
+{
+"name": "Natte Horizon, Bourtange",
+"lat": 53.0031,
+"lon": 7.19177,
+"label": "Natte Horizon, Bourtange"
+},
+{
+"name": "Naturistencamping Delft",
+"lat": 51.97734,
+"lon": 4.38884,
+"label": "Naturistencamping Delft"
+},
+{
+"name": "Naturistenvereniging Ostana",
+"lat": 52.17169,
+"lon": 6.827,
+"label": "Naturistenvereniging Ostana"
+},
+{
+"name": "Natuurbad De Donk",
+"lat": 51.88305,
+"lon": 4.93538,
+"label": "Natuurbad De Donk"
+},
+{
+"name": "Natuurbad De Zeekoelen",
+"lat": 50.93004,
+"lon": 5.97853,
+"label": "Natuurbad De Zeekoelen"
+},
+{
+"name": "Natuurbad Overbos Recreatiepark",
+"lat": 52.19525,
+"lon": 5.44116,
+"label": "Natuurbad Overbos Recreatiepark"
+},
+{
+"name": "Natuurbad Rekken",
+"lat": 52.11364,
+"lon": 6.74998,
+"label": "Natuurbad Rekken"
+},
+{
+"name": "Natuurbad Te Werve",
+"lat": 52.04498,
+"lon": 4.31966,
+"label": "Natuurbad Te Werve"
+},
+{
+"name": "Natuurbad Tynaarlo",
+"lat": 53.0813,
+"lon": 6.62158,
+"label": "Natuurbad Tynaarlo"
+},
+{
+"name": "Neeltje Jans Badstrand",
+"lat": 51.63337,
+"lon": 3.69194,
+"label": "Neeltje Jans Badstrand"
+},
+{
+"name": "Nesbos",
+"lat": 52.75531,
+"lon": 5.12426,
+"label": "Nesbos"
+},
+{
+"name": "Netl Park",
+"lat": 52.68342,
+"lon": 5.88406,
+"label": "Netl Park"
+},
+{
+"name": "Nieuw Haamstede Vuurtorenpad Badstrand",
+"lat": 51.71175,
+"lon": 3.6815,
+"label": "Nieuw Haamstede Vuurtorenpad Badstrand"
+},
+{
+"name": "Nieuwe Meer Noord",
+"lat": 52.33514,
+"lon": 4.81613,
+"label": "Nieuwe Meer Noord"
+},
+{
+"name": "Nieuwe Meer West",
+"lat": 52.33368,
+"lon": 4.81311,
+"label": "Nieuwe Meer West"
+},
+{
+"name": "Nieuwkoopse Plassen Meijepark",
+"lat": 52.13092,
+"lon": 4.77458,
+"label": "Nieuwkoopse Plassen Meijepark"
+},
+{
+"name": "Nieuwkuijkse Wiel",
+"lat": 51.68801,
+"lon": 5.18595,
+"label": "Nieuwkuijkse Wiel"
+},
+{
+"name": "Nieuwvliet-Bad Oost Badstrand",
+"lat": 51.39299,
+"lon": 3.45147,
+"label": "Nieuwvliet-Bad Oost Badstrand"
+},
+{
+"name": "Noord Aa Naaktstrand",
+"lat": 52.08471,
+"lon": 4.51338,
+"label": "Noord Aa Naaktstrand"
+},
+{
+"name": "Noord Aa Speelvijver",
+"lat": 52.08591,
+"lon": 4.51137,
+"label": "Noord Aa Speelvijver"
+},
+{
+"name": "Noord Aa Zwemstrand",
+"lat": 52.08753,
+"lon": 4.50797,
+"label": "Noord Aa Zwemstrand"
+},
+{
+"name": "Noordduine Badstrand",
+"lat": 51.55299,
+"lon": 3.46335,
+"label": "Noordduine Badstrand"
+},
+{
+"name": "Noordergat van de Plomp, Badstrand",
+"lat": 51.7194,
+"lon": 4.79184,
+"label": "Noordergat van de Plomp, Badstrand"
+},
+{
+"name": "Noorderplas",
+"lat": 52.68658,
+"lon": 4.81753,
+"label": "Noorderplas"
+},
+{
+"name": "Noorderplassenstrand",
+"lat": 52.39664,
+"lon": 5.22166,
+"label": "Noorderplassenstrand"
+},
+{
+"name": "Noorderstrand, Stavoren",
+"lat": 52.87958,
+"lon": 5.35923,
+"label": "Noorderstrand, Stavoren"
+},
+{
+"name": "Noordrand Oldambtmeer",
+"lat": 53.19439,
+"lon": 7.02675,
+"label": "Noordrand Oldambtmeer"
+},
+{
+"name": "Noordwijk aan Zee",
+"lat": 52.28228,
+"lon": 4.45971,
+"label": "Noordwijk aan Zee"
+},
+{
+"name": "Noordwijk aan Zee Boulevard",
+"lat": 52.24722,
+"lon": 4.42934,
+"label": "Noordwijk aan Zee Boulevard"
+},
+{
+"name": "Oesterdam Westzijde Badstrand",
+"lat": 51.47756,
+"lon": 4.21887,
+"label": "Oesterdam Westzijde Badstrand"
+},
+{
+"name": "Oldemeyer West",
+"lat": 52.54712,
+"lon": 6.55912,
+"label": "Oldemeyer West"
+},
+{
+"name": "Oosterbad",
+"lat": 52.28623,
+"lon": 4.79987,
+"label": "Oosterbad"
+},
+{
+"name": "Oosterduinse meer Noordwestoever",
+"lat": 52.28223,
+"lon": 4.50503,
+"label": "Oosterduinse meer Noordwestoever"
+},
+{
+"name": "Oosterplas",
+"lat": 51.69001,
+"lon": 5.34047,
+"label": "Oosterplas (51.690, 5.340)"
+},
+{
+"name": "Oosterplas",
+"lat": 52.4171,
+"lon": 4.60542,
+"label": "Oosterplas (52.417, 4.605)"
+},
+{
+"name": "Oostkapelle Duinweg Badstrand",
+"lat": 51.58164,
+"lon": 3.53604,
+"label": "Oostkapelle Duinweg Badstrand"
+},
+{
+"name": "Oostvoornse Meer Noordzijde",
+"lat": 51.93245,
+"lon": 4.07966,
+"label": "Oostvoornse Meer Noordzijde"
+},
+{
+"name": "Oostvoornse Meer Zuidzijde",
+"lat": 51.9193,
+"lon": 4.0685,
+"label": "Oostvoornse Meer Zuidzijde"
+},
+{
+"name": "Oranjeplaat Badstrand",
+"lat": 51.51686,
+"lon": 3.70685,
+"label": "Oranjeplaat Badstrand"
+},
+{
+"name": "Ottermeerhoeve, Strand",
+"lat": 51.46862,
+"lon": 4.43843,
+"label": "Ottermeerhoeve, Strand"
+},
+{
+"name": "Ouddorp strand",
+"lat": 51.82815,
+"lon": 3.91002,
+"label": "Ouddorp strand"
+},
+{
+"name": "Oude Tol",
+"lat": 51.83047,
+"lon": 4.39742,
+"label": "Oude Tol"
+},
+{
+"name": "Ouderkerkerplas Groenstrand",
+"lat": 52.29426,
+"lon": 4.92547,
+"label": "Ouderkerkerplas Groenstrand"
+},
+{
+"name": "Ouderkerkerplas Zandstrand",
+"lat": 52.29451,
+"lon": 4.92913,
+"label": "Ouderkerkerplas Zandstrand"
+},
+{
+"name": "Ouwerkerk Hoek Van Ouwerkerk Badstrand",
+"lat": 51.6162,
+"lon": 3.9619,
+"label": "Ouwerkerk Hoek Van Ouwerkerk Badstrand"
+},
+{
+"name": "Pagedal, Stadskanaal",
+"lat": 52.99305,
+"lon": 6.98375,
+"label": "Pagedal, Stadskanaal"
+},
+{
+"name": "Papillon Country Resort",
+"lat": 52.39533,
+"lon": 7.04645,
+"label": "Papillon Country Resort"
+},
+{
+"name": "Parc Emslandermeer, Vlagtwedde",
+"lat": 53.03459,
+"lon": 7.11556,
+"label": "Parc Emslandermeer, Vlagtwedde"
+},
+{
+"name": "Park Het Landschap - De Waterse Koele",
+"lat": 52.92271,
+"lon": 6.2664,
+"label": "Park Het Landschap - De Waterse Koele"
+},
+{
+"name": "Park Kuierpad - Speelvijver",
+"lat": 52.8428,
+"lon": 6.73712,
+"label": "Park Kuierpad - Speelvijver"
+},
+{
+"name": "Park Kuierpad - Sup- en Kanovijver",
+"lat": 52.8442,
+"lon": 6.73196,
+"label": "Park Kuierpad - Sup- en Kanovijver"
+},
+{
+"name": "Park Kuierpad - Zwemvijver",
+"lat": 52.84231,
+"lon": 6.72788,
+"label": "Park Kuierpad - Zwemvijver"
+},
+{
+"name": "Park Reggewold",
+"lat": 52.50443,
+"lon": 6.38217,
+"label": "Park Reggewold"
+},
+{
+"name": "Park van Luna",
+"lat": 52.64809,
+"lon": 4.79697,
+"label": "Park van Luna"
+},
+{
+"name": "Paterswoldsemeer de Lijte, Haren",
+"lat": 53.16322,
+"lon": 6.57723,
+"label": "Paterswoldsemeer de Lijte, Haren"
+},
+{
+"name": "Peddelpoel",
+"lat": 52.43802,
+"lon": 4.67544,
+"label": "Peddelpoel"
+},
+{
+"name": "Perkpolder Badstrand",
+"lat": 51.40116,
+"lon": 4.01766,
+"label": "Perkpolder Badstrand"
+},
+{
+"name": "Petten",
+"lat": 52.77796,
+"lon": 4.66087,
+"label": "Petten"
+},
+{
+"name": "Pieterman",
+"lat": 52.48697,
+"lon": 5.06039,
+"label": "Pieterman"
+},
+{
+"name": "Plan Zuid, Pekela",
+"lat": 53.09584,
+"lon": 7.00338,
+"label": "Plan Zuid, Pekela"
+},
+{
+"name": "Plas a/d Reeweg",
+"lat": 51.6874,
+"lon": 4.72272,
+"label": "Plas a/d Reeweg"
+},
+{
+"name": "Plas Elfhoeven",
+"lat": 52.03227,
+"lon": 4.73746,
+"label": "Plas Elfhoeven"
+},
+{
+"name": "Plas Krimpenerhout",
+"lat": 51.90621,
+"lon": 4.62388,
+"label": "Plas Krimpenerhout"
+},
+{
+"name": "Plas Merwelanden",
+"lat": 51.81011,
+"lon": 4.76537,
+"label": "Plas Merwelanden"
+},
+{
+"name": "Plas op de Markeplaat",
+"lat": 51.62757,
+"lon": 4.61848,
+"label": "Plas op de Markeplaat"
+},
+{
+"name": "Plas Prinsenbos",
+"lat": 52.00736,
+"lon": 4.19639,
+"label": "Plas Prinsenbos"
+},
+{
+"name": "Plas Slingeland",
+"lat": 51.88658,
+"lon": 4.89595,
+"label": "Plas Slingeland"
+},
+{
+"name": "Plas Vrijenburgbos",
+"lat": 51.86748,
+"lon": 4.49993,
+"label": "Plas Vrijenburgbos"
+},
+{
+"name": "Plas Wevershoek",
+"lat": 51.85274,
+"lon": 4.56779,
+"label": "Plas Wevershoek"
+},
+{
+"name": "Plas Wilhelminapark",
+"lat": 52.02477,
+"lon": 4.32854,
+"label": "Plas Wilhelminapark"
+},
+{
+"name": "Plas WRC Eijsden (Hoge Weerd) Maastricht",
+"lat": 50.81736,
+"lon": 5.69934,
+"label": "Plas WRC Eijsden (Hoge Weerd) Maastricht"
+},
+{
+"name": "Plas WRC Eijsden Oost Maarland Noord",
+"lat": 50.80798,
+"lon": 5.70492,
+"label": "Plas WRC Eijsden Oost Maarland Noord"
+},
+{
+"name": "Plas Wrc Eijsden, Oost Maarland Zuid",
+"lat": 50.80322,
+"lon": 5.70363,
+"label": "Plas Wrc Eijsden, Oost Maarland Zuid"
+},
+{
+"name": "Plassen Madestein, Loosduinen",
+"lat": 52.04357,
+"lon": 4.23374,
+"label": "Plassen Madestein, Loosduinen"
+},
+{
+"name": "Plassen Madestein, Noordzijde",
+"lat": 52.03791,
+"lon": 4.22298,
+"label": "Plassen Madestein, Noordzijde"
+},
+{
+"name": "Plassen Madestein, Zuidzijde",
+"lat": 52.03642,
+"lon": 4.21535,
+"label": "Plassen Madestein, Zuidzijde"
+},
+{
+"name": "PonyparkCity",
+"lat": 52.59082,
+"lon": 6.59014,
+"label": "PonyparkCity"
+},
+{
+"name": "Port Zelande",
+"lat": 51.75933,
+"lon": 3.86575,
+"label": "Port Zelande"
+},
+{
+"name": "Pottenstrand, Sneek",
+"lat": 53.03547,
+"lon": 5.72588,
+"label": "Pottenstrand, Sneek"
+},
+{
+"name": "Proostmeer, Wagenborgen",
+"lat": 53.25662,
+"lon": 6.92556,
+"label": "Proostmeer, Wagenborgen"
+},
+{
+"name": "Put van Ottoland",
+"lat": 51.87237,
+"lon": 4.85935,
+"label": "Put van Ottoland"
+},
+{
+"name": "Quackstrand",
+"lat": 51.84106,
+"lon": 4.07578,
+"label": "Quackstrand"
+},
+{
+"name": "Radioplassen Oploo, Aan Eind Landtong",
+"lat": 51.61029,
+"lon": 5.92311,
+"label": "Radioplassen Oploo, Aan Eind Landtong"
+},
+{
+"name": "Rakelbos vakantiepark",
+"lat": 51.4514,
+"lon": 5.2116,
+"label": "Rakelbos vakantiepark"
+},
+{
+"name": "Rauwbraken Diep",
+"lat": 51.58254,
+"lon": 5.13138,
+"label": "Rauwbraken Diep"
+},
+{
+"name": "Rauwbraken Ondiep",
+"lat": 51.58145,
+"lon": 5.13021,
+"label": "Rauwbraken Ondiep"
+},
+{
+"name": "RCN Strand",
+"lat": 52.30968,
+"lon": 5.54629,
+"label": "RCN Strand"
+},
+{
+"name": "Recreatie Everstein, Vianen",
+"lat": 51.98582,
+"lon": 5.12869,
+"label": "Recreatie Everstein, Vianen"
+},
+{
+"name": "Recreatiecentrum De Witte Berg",
+"lat": 52.42259,
+"lon": 6.8928,
+"label": "Recreatiecentrum De Witte Berg"
+},
+{
+"name": "Recreatiegebied Mookerplas",
+"lat": 51.73044,
+"lon": 5.92657,
+"label": "Recreatiegebied Mookerplas"
+},
+{
+"name": "Recreatieoord De Wilgenplas",
+"lat": 52.14876,
+"lon": 5.05661,
+"label": "Recreatieoord De Wilgenplas"
+},
+{
+"name": "Recreatieoord In Den Boomgaard",
+"lat": 51.87838,
+"lon": 5.35145,
+"label": "Recreatieoord In Den Boomgaard"
+},
+{
+"name": "Recreatieoord Veluwe Strandbad",
+"lat": 52.45293,
+"lon": 5.82246,
+"label": "Recreatieoord Veluwe Strandbad"
+},
+{
+"name": "Recreatiepark 't Kleine Zeetje",
+"lat": 52.26027,
+"lon": 5.37708,
+"label": "Recreatiepark 't Kleine Zeetje"
+},
+{
+"name": "Recreatiepark De Scherpenhof",
+"lat": 52.29818,
+"lon": 6.09996,
+"label": "Recreatiepark De Scherpenhof"
+},
+{
+"name": "Recreatiepark De Tolplas",
+"lat": 52.41481,
+"lon": 6.56114,
+"label": "Recreatiepark De Tolplas"
+},
+{
+"name": "Recreatieplas Kardinge , Groningen",
+"lat": 53.23964,
+"lon": 6.60131,
+"label": "Recreatieplas Kardinge , Groningen"
+},
+{
+"name": "Recreatieplas Sibculo",
+"lat": 52.48478,
+"lon": 6.64364,
+"label": "Recreatieplas Sibculo"
+},
+{
+"name": "Recreatieplas,Engelbert",
+"lat": 53.20499,
+"lon": 6.64416,
+"label": "Recreatieplas,Engelbert"
+},
+{
+"name": "Recreatiestrand Camping De Bloksberg",
+"lat": 51.68255,
+"lon": 5.99694,
+"label": "Recreatiestrand Camping De Bloksberg"
+},
+{
+"name": "Recreatiestrand Camping Hatenboer",
+"lat": 51.19396,
+"lon": 5.97364,
+"label": "Recreatiestrand Camping Hatenboer"
+},
+{
+"name": "Recreatiestrand Comfortparc Wessem",
+"lat": 51.15386,
+"lon": 5.8719,
+"label": "Recreatiestrand Comfortparc Wessem"
+},
+{
+"name": "Recreatiestrand De Schatberg",
+"lat": 51.38303,
+"lon": 5.97891,
+"label": "Recreatiestrand De Schatberg"
+},
+{
+"name": "Recreatiestrand Narvik Homeparc Heelderpeel",
+"lat": 51.19927,
+"lon": 5.88083,
+"label": "Recreatiestrand Narvik Homeparc Heelderpeel"
+},
+{
+"name": "Recreatiestrand Parc De Witte Vennen",
+"lat": 51.52309,
+"lon": 6.03677,
+"label": "Recreatiestrand Parc De Witte Vennen"
+},
+{
+"name": "Recreatiestrand Resort Arcen",
+"lat": 51.48235,
+"lon": 6.2127,
+"label": "Recreatiestrand Resort Arcen"
+},
+{
+"name": "Recreatiestrand Resort Marina Oolderhuuske",
+"lat": 51.19028,
+"lon": 5.95642,
+"label": "Recreatiestrand Resort Marina Oolderhuuske"
+},
+{
+"name": "Recreatiestrand Vakantiepark Klein Vink",
+"lat": 51.49759,
+"lon": 6.1867,
+"label": "Recreatiestrand Vakantiepark Klein Vink"
+},
+{
+"name": "Recreatiestrand Vakantiepark Leukermeer",
+"lat": 51.56853,
+"lon": 6.06214,
+"label": "Recreatiestrand Vakantiepark Leukermeer"
+},
+{
+"name": "Recreatieterrein Hellegatsplein",
+"lat": 51.70609,
+"lon": 4.39875,
+"label": "Recreatieterrein Hellegatsplein"
+},
+{
+"name": "Recreatieterrein RWS Stellendam",
+"lat": 51.82627,
+"lon": 4.04845,
+"label": "Recreatieterrein RWS Stellendam"
+},
+{
+"name": "Recreatievijver",
+"lat": 52.80484,
+"lon": 7.03653,
+"label": "Recreatievijver"
+},
+{
+"name": "Reeuwijkse Hout",
+"lat": 52.05842,
+"lon": 4.74213,
+"label": "Reeuwijkse Hout"
+},
+{
+"name": "Reitdiep, Garnwerd",
+"lat": 53.30592,
+"lon": 6.49352,
+"label": "Reitdiep, Garnwerd"
+},
+{
+"name": "Renesse J. Van Renesseweg Badstrand",
+"lat": 51.74332,
+"lon": 3.76943,
+"label": "Renesse J. Van Renesseweg Badstrand"
+},
+{
+"name": "Renesse Wilhelminahoeve Badstrand",
+"lat": 51.7399,
+"lon": 3.75128,
+"label": "Renesse Wilhelminahoeve Badstrand"
+},
+{
+"name": "Rhederlaag Bahrsche Strand",
+"lat": 51.98744,
+"lon": 6.03941,
+"label": "Rhederlaag Bahrsche Strand"
+},
+{
+"name": "Rhederlaag Giese Kop",
+"lat": 51.99144,
+"lon": 6.05509,
+"label": "Rhederlaag Giese Kop"
+},
+{
+"name": "Rhederlaag Noordoever",
+"lat": 52.00089,
+"lon": 6.04678,
+"label": "Rhederlaag Noordoever"
+},
+{
+"name": "Rietplaat, Badstrand",
+"lat": 51.7483,
+"lon": 4.77853,
+"label": "Rietplaat, Badstrand"
+},
+{
+"name": "Rietplas, strand",
+"lat": 52.02249,
+"lon": 5.18933,
+"label": "Rietplas, strand"
+},
+{
+"name": "Rietput",
+"lat": 51.87207,
+"lon": 5.063,
+"label": "Rietput"
+},
+{
+"name": "Rijkerswoerdse Plassen",
+"lat": 51.94102,
+"lon": 5.86449,
+"label": "Rijkerswoerdse Plassen"
+},
+{
+"name": "Ritthem Fort Rammekens Badstrand",
+"lat": 51.45009,
+"lon": 3.65224,
+"label": "Ritthem Fort Rammekens Badstrand"
+},
+{
+"name": "Rivièra Beach Noord",
+"lat": 52.44866,
+"lon": 5.80655,
+"label": "Rivièra Beach Noord"
+},
+{
+"name": "Rivièra Beach Zuid",
+"lat": 52.44187,
+"lon": 5.80022,
+"label": "Rivièra Beach Zuid"
+},
+{
+"name": "Rockanje Badstrand",
+"lat": 51.86628,
+"lon": 4.04966,
+"label": "Rockanje Badstrand"
+},
+{
+"name": "Rohel, Rohel",
+"lat": 52.91172,
+"lon": 5.80753,
+"label": "Rohel, Rohel"
+},
+{
+"name": "Ronostrand",
+"lat": 53.10012,
+"lon": 6.37557,
+"label": "Ronostrand"
+},
+{
+"name": "Rooye Plas Handel",
+"lat": 51.57492,
+"lon": 5.72235,
+"label": "Rooye Plas Handel"
+},
+{
+"name": "Ruitershorn, Muntendam",
+"lat": 53.13352,
+"lon": 6.85557,
+"label": "Ruitershorn, Muntendam"
+},
+{
+"name": "Ruskenveen, Groningen",
+"lat": 53.20667,
+"lon": 6.51393,
+"label": "Ruskenveen, Groningen"
+},
+{
+"name": "Sandelingen Ambacht",
+"lat": 51.84616,
+"lon": 4.61885,
+"label": "Sandelingen Ambacht"
+},
+{
+"name": "Schagerwiel",
+"lat": 52.7816,
+"lon": 4.77623,
+"label": "Schagerwiel"
+},
+{
+"name": "Schardam",
+"lat": 52.59393,
+"lon": 5.02179,
+"label": "Schardam"
+},
+{
+"name": "Scharendijke Badstrand",
+"lat": 51.74275,
+"lon": 3.81632,
+"label": "Scharendijke Badstrand"
+},
+{
+"name": "Schellinkhout",
+"lat": 52.63284,
+"lon": 5.12042,
+"label": "Schellinkhout"
+},
+{
+"name": "Scheveningen Noorderstrand",
+"lat": 52.10982,
+"lon": 4.27245,
+"label": "Scheveningen Noorderstrand"
+},
+{
+"name": "Scheveningen Zuiderstrand",
+"lat": 52.09052,
+"lon": 4.24659,
+"label": "Scheveningen Zuiderstrand"
+},
+{
+"name": "Scheveningen Zwarte Pad",
+"lat": 52.12314,
+"lon": 4.29395,
+"label": "Scheveningen Zwarte Pad"
+},
+{
+"name": "Schildmeer, Steendam",
+"lat": 53.27032,
+"lon": 6.84054,
+"label": "Schildmeer, Steendam"
+},
+{
+"name": "Scholtenhof",
+"lat": 51.90056,
+"lon": 6.34944,
+"label": "Scholtenhof"
+},
+{
+"name": "Schoonhoven",
+"lat": 52.69764,
+"lon": 6.56981,
+"label": "Schoonhoven"
+},
+{
+"name": "Schotsman Campensweg Badstrand",
+"lat": 51.57471,
+"lon": 3.65041,
+"label": "Schotsman Campensweg Badstrand"
+},
+{
+"name": "Sint Annaland Badstrand",
+"lat": 51.60705,
+"lon": 4.10469,
+"label": "Sint Annaland Badstrand"
+},
+{
+"name": "Sint Maartensdijk Muiepolder Badstrand",
+"lat": 51.53261,
+"lon": 4.06937,
+"label": "Sint Maartensdijk Muiepolder Badstrand"
+},
+{
+"name": "Sint Maartenszee",
+"lat": 52.79589,
+"lon": 4.67185,
+"label": "Sint Maartenszee"
+},
+{
+"name": "Sint Philipsland Badstrand",
+"lat": 51.61489,
+"lon": 4.16209,
+"label": "Sint Philipsland Badstrand"
+},
+{
+"name": "Skipsleat, Joure",
+"lat": 52.97478,
+"lon": 5.81381,
+"label": "Skipsleat, Joure"
+},
+{
+"name": "Skûlenboarch, Drogeham",
+"lat": 53.19432,
+"lon": 6.08496,
+"label": "Skûlenboarch, Drogeham"
+},
+{
+"name": "Slikken Van Flakkee",
+"lat": 51.7503,
+"lon": 4.01926,
+"label": "Slikken Van Flakkee"
+},
+{
+"name": "Slingeplas",
+"lat": 51.94652,
+"lon": 6.62864,
+"label": "Slingeplas"
+},
+{
+"name": "Slobbeland",
+"lat": 52.49132,
+"lon": 5.07219,
+"label": "Slobbeland"
+},
+{
+"name": "Slootermeer (Groot)",
+"lat": 51.89721,
+"lon": 6.34933,
+"label": "Slootermeer (Groot)"
+},
+{
+"name": "Slootermeer (klein)",
+"lat": 51.89934,
+"lon": 6.35121,
+"label": "Slootermeer (klein)"
+},
+{
+"name": "Smeliester Sân, Smalle Ee",
+"lat": 53.10678,
+"lon": 6.0202,
+"label": "Smeliester Sân, Smalle Ee"
+},
+{
+"name": "Smokkelstrand De Flaasbloem",
+"lat": 51.48914,
+"lon": 4.89633,
+"label": "Smokkelstrand De Flaasbloem"
+},
+{
+"name": "Spaarnwoude",
+"lat": 52.42681,
+"lon": 4.68594,
+"label": "Spaarnwoude"
+},
+{
+"name": "Spartelvijver",
+"lat": 51.39779,
+"lon": 5.11805,
+"label": "Spartelvijver"
+},
+{
+"name": "Speelvijver Emmercompascuum",
+"lat": 52.80489,
+"lon": 7.03102,
+"label": "Speelvijver Emmercompascuum"
+},
+{
+"name": "Spiegelplas Bergse Akker",
+"lat": 52.26659,
+"lon": 5.04797,
+"label": "Spiegelplas Bergse Akker"
+},
+{
+"name": "Spiegelplas Blijk",
+"lat": 52.26191,
+"lon": 5.05102,
+"label": "Spiegelplas Blijk"
+},
+{
+"name": "Spiegelplas Noordoost",
+"lat": 52.27443,
+"lon": 5.07162,
+"label": "Spiegelplas Noordoost"
+},
+{
+"name": "Spiegelplas Zuidoost",
+"lat": 52.26179,
+"lon": 5.0672,
+"label": "Spiegelplas Zuidoost"
+},
+{
+"name": "Spiegelwaal",
+"lat": 51.855,
+"lon": 5.85963,
+"label": "Spiegelwaal"
+},
+{
+"name": "Spijkstrand",
+"lat": 52.45391,
+"lon": 5.81087,
+"label": "Spijkstrand"
+},
+{
+"name": "Spoekeplas, Noordwolde",
+"lat": 52.87963,
+"lon": 6.13342,
+"label": "Spoekeplas, Noordwolde"
+},
+{
+"name": "Springervijver Stadspark",
+"lat": 53.20048,
+"lon": 6.54242,
+"label": "Springervijver Stadspark"
+},
+{
+"name": "Spui Goudswaard",
+"lat": 51.80326,
+"lon": 4.2801,
+"label": "Spui Goudswaard"
+},
+{
+"name": "Stad aan 't Haringvliet",
+"lat": 51.74547,
+"lon": 4.24203,
+"label": "Stad aan 't Haringvliet"
+},
+{
+"name": "Stadsstrand Groningen",
+"lat": 53.22528,
+"lon": 6.56733,
+"label": "Stadsstrand Groningen"
+},
+{
+"name": "Stavenisse Badstrand",
+"lat": 51.59416,
+"lon": 4.00196,
+"label": "Stavenisse Badstrand"
+},
+{
+"name": "Stedenwijkstrand, Weerwater",
+"lat": 52.36558,
+"lon": 5.21378,
+"label": "Stedenwijkstrand, Weerwater"
+},
+{
+"name": "Stichtsebrug",
+"lat": 52.29882,
+"lon": 5.29911,
+"label": "Stichtsebrug"
+},
+{
+"name": "Strand Eiland Van Maurik",
+"lat": 51.97504,
+"lon": 5.42314,
+"label": "Strand Eiland Van Maurik"
+},
+{
+"name": "Strand Horst",
+"lat": 52.3147,
+"lon": 5.56357,
+"label": "Strand Horst"
+},
+{
+"name": "Strand in Zicht, Noorderplassen",
+"lat": 52.39286,
+"lon": 5.21211,
+"label": "Strand in Zicht, Noorderplassen"
+},
+{
+"name": "Strand Nijstad",
+"lat": 52.70784,
+"lon": 6.42576,
+"label": "Strand Nijstad"
+},
+{
+"name": "Strand Nulde Noord",
+"lat": 52.2752,
+"lon": 5.53822,
+"label": "Strand Nulde Noord"
+},
+{
+"name": "Strand Nulde Zuid",
+"lat": 52.26619,
+"lon": 5.53001,
+"label": "Strand Nulde Zuid"
+},
+{
+"name": "Strand Reigerplas",
+"lat": 52.42461,
+"lon": 5.4118,
+"label": "Strand Reigerplas"
+},
+{
+"name": "Strand Schokkerhaven",
+"lat": 52.61167,
+"lon": 5.7428,
+"label": "Strand Schokkerhaven"
+},
+{
+"name": "Strand Staversekade",
+"lat": 52.65999,
+"lon": 5.59334,
+"label": "Strand Staversekade"
+},
+{
+"name": "Strand Vollenhove",
+"lat": 52.67849,
+"lon": 5.93937,
+"label": "Strand Vollenhove"
+},
+{
+"name": "strand Zijlkade Meerstad",
+"lat": 53.23024,
+"lon": 6.65331,
+"label": "strand Zijlkade Meerstad"
+},
+{
+"name": "Strand zuid Oldambtmeer",
+"lat": 53.16518,
+"lon": 7.03757,
+"label": "Strand zuid Oldambtmeer"
+},
+{
+"name": "Strandbad Well",
+"lat": 51.74774,
+"lon": 5.18521,
+"label": "Strandbad Well"
+},
+{
+"name": "Strandeiland Harderwijk",
+"lat": 52.35101,
+"lon": 5.61286,
+"label": "Strandeiland Harderwijk"
+},
+{
+"name": "Strandheem, Opende",
+"lat": 53.14929,
+"lon": 6.18677,
+"label": "Strandheem, Opende"
+},
+{
+"name": "Strandje Andel",
+"lat": 51.78305,
+"lon": 5.0615,
+"label": "Strandje Andel"
+},
+{
+"name": "Strandje Goese Meer",
+"lat": 51.5214,
+"lon": 3.8949,
+"label": "Strandje Goese Meer"
+},
+{
+"name": "Strandje Rijswijk",
+"lat": 51.80375,
+"lon": 5.02154,
+"label": "Strandje Rijswijk"
+},
+{
+"name": "Strandje van Geersdijk",
+"lat": 51.55484,
+"lon": 3.76074,
+"label": "Strandje van Geersdijk"
+},
+{
+"name": "Strandje Wijkse Bol",
+"lat": 51.76168,
+"lon": 5.1342,
+"label": "Strandje Wijkse Bol"
+},
+{
+"name": "Strandpark Slijk-Ewijk",
+"lat": 51.89657,
+"lon": 5.78142,
+"label": "Strandpark Slijk-Ewijk"
+},
+{
+"name": "Streekbos",
+"lat": 52.71064,
+"lon": 5.25241,
+"label": "Streekbos"
+},
+{
+"name": "Strijkviertelplas",
+"lat": 52.0757,
+"lon": 5.0584,
+"label": "Strijkviertelplas"
+},
+{
+"name": "Stroombroek",
+"lat": 51.93609,
+"lon": 6.26794,
+"label": "Stroombroek"
+},
+{
+"name": "Summercamp Heino",
+"lat": 52.42118,
+"lon": 6.23287,
+"label": "Summercamp Heino"
+},
+{
+"name": "Surfstrand Almere",
+"lat": 52.33467,
+"lon": 5.20415,
+"label": "Surfstrand Almere"
+},
+{
+"name": "Surfstrand West Belterwijde",
+"lat": 52.68596,
+"lon": 6.07971,
+"label": "Surfstrand West Belterwijde"
+},
+{
+"name": "Surfvijver Waalwijk",
+"lat": 51.68061,
+"lon": 5.09648,
+"label": "Surfvijver Waalwijk"
+},
+{
+"name": "Suyderoogh, Lauwersoog",
+"lat": 53.38756,
+"lon": 6.21561,
+"label": "Suyderoogh, Lauwersoog"
+},
+{
+"name": "Swimplak Blauwhoek, Jistrum",
+"lat": 53.20332,
+"lon": 6.04888,
+"label": "Swimplak Blauwhoek, Jistrum"
+},
+{
+"name": "Swimplak Eastermar, Eastermar",
+"lat": 53.17899,
+"lon": 6.04971,
+"label": "Swimplak Eastermar, Eastermar"
+},
+{
+"name": "Ter Horsterzand",
+"lat": 52.84002,
+"lon": 6.50028,
+"label": "Ter Horsterzand"
+},
+{
+"name": "Ter Spegelt Onoverdekte Plas",
+"lat": 51.33546,
+"lon": 5.301,
+"label": "Ter Spegelt Onoverdekte Plas"
+},
+{
+"name": "Ter Spegelt SterrenStrand",
+"lat": 51.33395,
+"lon": 5.30095,
+"label": "Ter Spegelt SterrenStrand"
+},
+{
+"name": "Ter Spegelt Surfplas",
+"lat": 51.3385,
+"lon": 5.29995,
+"label": "Ter Spegelt Surfplas"
+},
+{
+"name": "Terherne",
+"lat": 53.03882,
+"lon": 5.76601,
+"label": "Terherne"
+},
+{
+"name": "Tijningenplas",
+"lat": 51.80025,
+"lon": 5.2388,
+"label": "Tijningenplas"
+},
+{
+"name": "Toolenburg Noord",
+"lat": 52.3006,
+"lon": 4.65006,
+"label": "Toolenburg Noord"
+},
+{
+"name": "Toolenburg West",
+"lat": 52.29714,
+"lon": 4.64527,
+"label": "Toolenburg West"
+},
+{
+"name": "Tsjûkemar Ulesprong, Sint Nicolaasga",
+"lat": 52.91278,
+"lon": 5.7814,
+"label": "Tsjûkemar Ulesprong, Sint Nicolaasga"
+},
+{
+"name": "Tuindorpbad",
+"lat": 52.25581,
+"lon": 6.77849,
+"label": "Tuindorpbad"
+},
+{
+"name": "Tull en 't Waal Oost",
+"lat": 51.99455,
+"lon": 5.13898,
+"label": "Tull en 't Waal Oost"
+},
+{
+"name": "Tull en 't Waal West",
+"lat": 51.99741,
+"lon": 5.1318,
+"label": "Tull en 't Waal West"
+},
+{
+"name": "Tussenboerslanden",
+"lat": 52.73736,
+"lon": 6.15748,
+"label": "Tussenboerslanden"
+},
+{
+"name": "Tweede Maasvlakte",
+"lat": 51.92663,
+"lon": 3.97862,
+"label": "Tweede Maasvlakte"
+},
+{
+"name": "Twiske Baaiegat",
+"lat": 52.45558,
+"lon": 4.88129,
+"label": "Twiske Baaiegat"
+},
+{
+"name": "Twiske Does",
+"lat": 52.43754,
+"lon": 4.89409,
+"label": "Twiske Does"
+},
+{
+"name": "Twiske Kure-Jan",
+"lat": 52.45593,
+"lon": 4.89366,
+"label": "Twiske Kure-Jan"
+},
+{
+"name": "Twiske Leers",
+"lat": 52.45069,
+"lon": 4.8859,
+"label": "Twiske Leers"
+},
+{
+"name": "Twiske Poort",
+"lat": 52.43989,
+"lon": 4.88655,
+"label": "Twiske Poort"
+},
+{
+"name": "Twiske Schoorlstrand",
+"lat": 52.45268,
+"lon": 4.8806,
+"label": "Twiske Schoorlstrand"
+},
+{
+"name": "Twiske Speelsloot",
+"lat": 52.46096,
+"lon": 4.89655,
+"label": "Twiske Speelsloot"
+},
+{
+"name": "Twiske Vennegatstrand",
+"lat": 52.44138,
+"lon": 4.89386,
+"label": "Twiske Vennegatstrand"
+},
+{
+"name": "Uitdam",
+"lat": 52.42418,
+"lon": 5.07355,
+"label": "Uitdam"
+},
+{
+"name": "Vadedo-Plas",
+"lat": 52.15178,
+"lon": 4.54401,
+"label": "Vadedo-Plas"
+},
+{
+"name": "Vakantiepark aan de Maas",
+"lat": 51.77908,
+"lon": 5.33447,
+"label": "Vakantiepark aan de Maas"
+},
+{
+"name": "Vakantiepark Capfun De Belten",
+"lat": 52.55426,
+"lon": 6.57641,
+"label": "Vakantiepark Capfun De Belten"
+},
+{
+"name": "Vakantiepark De Betteld",
+"lat": 52.00905,
+"lon": 6.3821,
+"label": "Vakantiepark De Betteld"
+},
+{
+"name": "Vakantiepark De Groene Heuvels",
+"lat": 51.84418,
+"lon": 5.68991,
+"label": "Vakantiepark De Groene Heuvels"
+},
+{
+"name": "Vakantiepark De Kleine Belties",
+"lat": 52.56234,
+"lon": 6.5876,
+"label": "Vakantiepark De Kleine Belties"
+},
+{
+"name": "Vakantiepark Eiland van Maurik",
+"lat": 51.97501,
+"lon": 5.42832,
+"label": "Vakantiepark Eiland van Maurik"
+},
+{
+"name": "Vakantiepark Heino",
+"lat": 52.43954,
+"lon": 6.27846,
+"label": "Vakantiepark Heino"
+},
+{
+"name": "Vakantiepark Hellendoorn Plas Noord",
+"lat": 52.40821,
+"lon": 6.43594,
+"label": "Vakantiepark Hellendoorn Plas Noord"
+},
+{
+"name": "Vakantiepark Hellendoorn Plas Zuid",
+"lat": 52.40683,
+"lon": 6.43609,
+"label": "Vakantiepark Hellendoorn Plas Zuid"
+},
+{
+"name": "Vakantiepark Het Stoetenslagh",
+"lat": 52.58604,
+"lon": 6.53336,
+"label": "Vakantiepark Het Stoetenslagh"
+},
+{
+"name": "Valkenburgse Meer",
+"lat": 52.15862,
+"lon": 4.44214,
+"label": "Valkenburgse Meer"
+},
+{
+"name": "Veendiepplassen, Bellingwolde",
+"lat": 53.08738,
+"lon": 7.1542,
+"label": "Veendiepplassen, Bellingwolde"
+},
+{
+"name": "Veere Bastionstrand",
+"lat": 51.55132,
+"lon": 3.6648,
+"label": "Veere Bastionstrand"
+},
+{
+"name": "Veerplas",
+"lat": 52.38758,
+"lon": 4.67437,
+"label": "Veerplas"
+},
+{
+"name": "Veersegat Dam Meerzijde Badstrand",
+"lat": 51.58247,
+"lon": 3.62806,
+"label": "Veersegat Dam Meerzijde Badstrand"
+},
+{
+"name": "Velsen Noord",
+"lat": 52.47917,
+"lon": 4.57468,
+"label": "Velsen Noord"
+},
+{
+"name": "Venegat",
+"lat": 52.19754,
+"lon": 4.66815,
+"label": "Venegat"
+},
+{
+"name": "Veneger Gat Wanneperveen Veneweg",
+"lat": 52.69716,
+"lon": 6.10787,
+"label": "Veneger Gat Wanneperveen Veneweg"
+},
+{
+"name": "Vijver Oosterpark",
+"lat": 51.85881,
+"lon": 4.6089,
+"label": "Vijver Oosterpark"
+},
+{
+"name": "Villa Westend",
+"lat": 52.42456,
+"lon": 4.67237,
+"label": "Villa Westend"
+},
+{
+"name": "Vinkeveense Plassen (Eiland 1)",
+"lat": 52.24896,
+"lon": 4.96151,
+"label": "Vinkeveense Plassen (Eiland 1)"
+},
+{
+"name": "Vinkeveense Plassen (Eiland 2)",
+"lat": 52.24618,
+"lon": 4.96504,
+"label": "Vinkeveense Plassen (Eiland 2)"
+},
+{
+"name": "Vinkeveense Plassen (Eiland 3)",
+"lat": 52.23935,
+"lon": 4.96302,
+"label": "Vinkeveense Plassen (Eiland 3)"
+},
+{
+"name": "Vinkeveense Plassen (Eiland 4)",
+"lat": 52.23523,
+"lon": 4.9612,
+"label": "Vinkeveense Plassen (Eiland 4)"
+},
+{
+"name": "Vinkeveense Plassen (Eiland 5)",
+"lat": 52.23272,
+"lon": 4.95469,
+"label": "Vinkeveense Plassen (Eiland 5)"
+},
+{
+"name": "Vinkeveense Plassen (Eiland 8)",
+"lat": 52.24091,
+"lon": 4.94767,
+"label": "Vinkeveense Plassen (Eiland 8)"
+},
+{
+"name": "Vlietland Badstrand Noordoostoever",
+"lat": 52.11947,
+"lon": 4.4655,
+"label": "Vlietland Badstrand Noordoostoever"
+},
+{
+"name": "Vlietland Speelvijver",
+"lat": 52.1208,
+"lon": 4.46811,
+"label": "Vlietland Speelvijver"
+},
+{
+"name": "Vlietland Surfstrand Noordwestoever",
+"lat": 52.12074,
+"lon": 4.4587,
+"label": "Vlietland Surfstrand Noordwestoever"
+},
+{
+"name": "Vlietsingel",
+"lat": 52.76571,
+"lon": 5.12007,
+"label": "Vlietsingel"
+},
+{
+"name": "Vlissingen Nolle Badstrand",
+"lat": 51.44978,
+"lon": 3.55399,
+"label": "Vlissingen Nolle Badstrand"
+},
+{
+"name": "Voorveldse Polder (Speelvijver)",
+"lat": 52.10048,
+"lon": 5.15234,
+"label": "Voorveldse Polder (Speelvijver)"
+},
+{
+"name": "Vrouwenpolder Breezand Badstrand",
+"lat": 51.59047,
+"lon": 3.62324,
+"label": "Vrouwenpolder Breezand Badstrand"
+},
+{
+"name": "Vrouwentroost",
+"lat": 52.25303,
+"lon": 4.75686,
+"label": "Vrouwentroost"
+},
+{
+"name": "Vuurtoren Badstrand Hellevoetsluis",
+"lat": 51.82069,
+"lon": 4.12416,
+"label": "Vuurtoren Badstrand Hellevoetsluis"
+},
+{
+"name": "Waalboezem Surfbocht",
+"lat": 51.85495,
+"lon": 4.57635,
+"label": "Waalboezem Surfbocht"
+},
+{
+"name": "Walburgen",
+"lat": 51.87263,
+"lon": 5.95826,
+"label": "Walburgen"
+},
+{
+"name": "Warder",
+"lat": 52.56656,
+"lon": 5.03233,
+"label": "Warder"
+},
+{
+"name": "Wassenaarse Slag",
+"lat": 52.16283,
+"lon": 4.34575,
+"label": "Wassenaarse Slag"
+},
+{
+"name": "Watergoed",
+"lat": 51.89803,
+"lon": 5.77388,
+"label": "Watergoed"
+},
+{
+"name": "Watermolen, Opende",
+"lat": 53.16756,
+"lon": 6.22072,
+"label": "Watermolen, Opende"
+},
+{
+"name": "Waterspeelplaats Tubasingel",
+"lat": 52.02946,
+"lon": 4.3233,
+"label": "Waterspeelplaats Tubasingel"
+},
+{
+"name": "Watersportcentrum De Bijland",
+"lat": 51.86525,
+"lon": 6.08059,
+"label": "Watersportcentrum De Bijland"
+},
+{
+"name": "Wemeldinge Badstrand",
+"lat": 51.52138,
+"lon": 4.00081,
+"label": "Wemeldinge Badstrand"
+},
+{
+"name": "West Nieuwland",
+"lat": 51.78538,
+"lon": 3.86362,
+"label": "West Nieuwland"
+},
+{
+"name": "West Repart Badstrand",
+"lat": 51.73957,
+"lon": 3.82926,
+"label": "West Repart Badstrand"
+},
+{
+"name": "Westbroekplas",
+"lat": 52.42728,
+"lon": 4.67313,
+"label": "Westbroekplas"
+},
+{
+"name": "Westerschouwen Rotonde Badstrand",
+"lat": 51.66982,
+"lon": 3.70318,
+"label": "Westerschouwen Rotonde Badstrand"
+},
+{
+"name": "Westkapelle Erika Badstrand",
+"lat": 51.52435,
+"lon": 3.4379,
+"label": "Westkapelle Erika Badstrand"
+},
+{
+"name": "Westpolderplas",
+"lat": 51.59652,
+"lon": 4.65443,
+"label": "Westpolderplas"
+},
+{
+"name": "Wijde Aa Zuidzijde",
+"lat": 52.17419,
+"lon": 4.61719,
+"label": "Wijde Aa Zuidzijde"
+},
+{
+"name": "Wijde Blik",
+"lat": 52.23156,
+"lon": 5.06842,
+"label": "Wijde Blik"
+},
+{
+"name": "Wijdenes",
+"lat": 52.63103,
+"lon": 5.17163,
+"label": "Wijdenes"
+},
+{
+"name": "Wijk aan Zee",
+"lat": 52.49597,
+"lon": 4.58584,
+"label": "Wijk aan Zee"
+},
+{
+"name": "Wijthmenerplas Noord",
+"lat": 52.49884,
+"lon": 6.15043,
+"label": "Wijthmenerplas Noord"
+},
+{
+"name": "Wijthmenerplas Oost",
+"lat": 52.49634,
+"lon": 6.15776,
+"label": "Wijthmenerplas Oost"
+},
+{
+"name": "Wijthmenerplas Zuid",
+"lat": 52.49548,
+"lon": 6.15109,
+"label": "Wijthmenerplas Zuid"
+},
+{
+"name": "Willem-Alexanderbaan",
+"lat": 51.99607,
+"lon": 4.56067,
+"label": "Willem-Alexanderbaan"
+},
+{
+"name": "Witterzomer",
+"lat": 52.97572,
+"lon": 6.50691,
+"label": "Witterzomer"
+},
+{
+"name": "Woldstrand",
+"lat": 52.32714,
+"lon": 5.54964,
+"label": "Woldstrand"
+},
+{
+"name": "Wollebrand",
+"lat": 51.99288,
+"lon": 4.23826,
+"label": "Wollebrand"
+},
+{
+"name": "Wolphaartsdijk Schelphoek Badstrand",
+"lat": 51.54238,
+"lon": 3.79996,
+"label": "Wolphaartsdijk Schelphoek Badstrand"
+},
+{
+"name": "Woudfennen, Joure",
+"lat": 52.96303,
+"lon": 5.75203,
+"label": "Woudfennen, Joure"
+},
+{
+"name": "Wylerbergmeer",
+"lat": 51.82629,
+"lon": 5.94407,
+"label": "Wylerbergmeer"
+},
+{
+"name": "Yerseke Postweg Badstrand",
+"lat": 51.50258,
+"lon": 4.0469,
+"label": "Yerseke Postweg Badstrand"
+},
+{
+"name": "Zandenplas",
+"lat": 52.37365,
+"lon": 5.81697,
+"label": "Zandenplas"
+},
+{
+"name": "Zandmotor",
+"lat": 52.05676,
+"lon": 4.19064,
+"label": "Zandmotor"
+},
+{
+"name": "Zandput",
+"lat": 51.84485,
+"lon": 5.13439,
+"label": "Zandput"
+},
+{
+"name": "Zandvoort",
+"lat": 52.37326,
+"lon": 4.52251,
+"label": "Zandvoort"
+},
+{
+"name": "Zandwinplas",
+"lat": 51.67836,
+"lon": 5.11443,
+"label": "Zandwinplas"
+},
+{
+"name": "Zeestrand Eemshotel, Delfzijl",
+"lat": 53.33468,
+"lon": 6.93127,
+"label": "Zeestrand Eemshotel, Delfzijl"
+},
+{
+"name": "Zeestrand Termunten",
+"lat": 53.30257,
+"lon": 7.03063,
+"label": "Zeestrand Termunten"
+},
+{
+"name": "Zegerplas Speelvijver",
+"lat": 52.13587,
+"lon": 4.67775,
+"label": "Zegerplas Speelvijver"
+},
+{
+"name": "Zegerplas Zuidoever",
+"lat": 52.13043,
+"lon": 4.68311,
+"label": "Zegerplas Zuidoever"
+},
+{
+"name": "Zeumeren",
+"lat": 52.17353,
+"lon": 5.61704,
+"label": "Zeumeren"
+},
+{
+"name": "Zeumeren 2",
+"lat": 52.17367,
+"lon": 5.61706,
+"label": "Zeumeren 2"
+},
+{
+"name": "Zevenhuizerplas Nesselande",
+"lat": 51.98402,
+"lon": 4.5786,
+"label": "Zevenhuizerplas Nesselande"
+},
+{
+"name": "Zevenhuizerplas Strand Noordwestzijde",
+"lat": 51.98209,
+"lon": 4.55662,
+"label": "Zevenhuizerplas Strand Noordwestzijde"
+},
+{
+"name": "Zilverstrand",
+"lat": 52.32626,
+"lon": 5.14644,
+"label": "Zilverstrand"
+},
+{
+"name": "Zoutelande Dishoek Badstrand",
+"lat": 51.46974,
+"lon": 3.51906,
+"label": "Zoutelande Dishoek Badstrand"
+},
+{
+"name": "Zoutelande Smidshoekje Badstrand",
+"lat": 51.49821,
+"lon": 3.48509,
+"label": "Zoutelande Smidshoekje Badstrand"
+},
+{
+"name": "Zuiderhaven",
+"lat": 52.93168,
+"lon": 5.04,
+"label": "Zuiderhaven"
+},
+{
+"name": "Zuiderplas (Bad)",
+"lat": 51.67423,
+"lon": 5.3191,
+"label": "Zuiderplas (Bad)"
+},
+{
+"name": "Zuidlaardermeer, Meerwijck",
+"lat": 53.14519,
+"lon": 6.6929,
+"label": "Zuidlaardermeer, Meerwijck"
+},
+{
+"name": "Zwaansmeer",
+"lat": 52.52763,
+"lon": 4.72993,
+"label": "Zwaansmeer"
+},
+{
+"name": "Zwanenbad",
+"lat": 51.93762,
+"lon": 5.95116,
+"label": "Zwanenbad"
+},
+{
+"name": "Zwaneveldsgat, Kolham",
+"lat": 53.18751,
+"lon": 6.74004,
+"label": "Zwaneveldsgat, Kolham"
+},
+{
+"name": "Zwarte Dennen",
+"lat": 52.62455,
+"lon": 6.27281,
+"label": "Zwarte Dennen"
+},
+{
+"name": "Zwarte Weg, Heemskerk",
+"lat": 52.51694,
+"lon": 4.59389,
+"label": "Zwarte Weg, Heemskerk"
+},
+{
+"name": "Zwem- en surfcentrum Balk, Balk",
+"lat": 52.90715,
+"lon": 5.5978,
+"label": "Zwem- en surfcentrum Balk, Balk"
+},
+{
+"name": "Zwemeiland Bovenwijde",
+"lat": 52.72266,
+"lon": 6.0998,
+"label": "Zwemeiland Bovenwijde"
+},
+{
+"name": "Zwemlust",
+"lat": 52.19294,
+"lon": 5.00617,
+"label": "Zwemlust"
+},
+{
+"name": "Zwemplas Maasparcje-Velmans-v.Ass-Hermans",
+"lat": 51.20736,
+"lon": 5.97805,
+"label": "Zwemplas Maasparcje-Velmans-v.Ass-Hermans"
+},
+{
+"name": "Zwemplas Woude",
+"lat": 51.88109,
+"lon": 4.61427,
+"label": "Zwemplas Woude"
+},
+{
+"name": "Zwemstrand Almere",
+"lat": 52.33262,
+"lon": 5.21071,
+"label": "Zwemstrand Almere"
+}
+]
+}

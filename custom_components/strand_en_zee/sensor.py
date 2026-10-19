@@ -20,7 +20,7 @@ from homeassistant.helpers.device_registry import DeviceEntryType, DeviceInfo
 from homeassistant.helpers.entity_platform import AddEntitiesCallback
 from homeassistant.helpers.update_coordinator import CoordinatorEntity
 
-from .const import ATTRIBUTIONS, CONF_NAME, DOMAIN
+from .const import ATTRIBUTION, CONF_NAME, DOMAIN
 from .coordinator import Reading, StrandEnZeeCoordinator
 
 COMPASS = ["N", "NNO", "NO", "ONO", "O", "OZO", "ZO", "ZZO", "Z", "ZZW", "ZW", "WZW", "W", "WNW", "NW", "NNW"]
@@ -75,27 +75,23 @@ async def async_setup_entry(
     hass: HomeAssistant, entry: ConfigEntry, async_add_entities: AddEntitiesCallback
 ) -> None:
     coordinator: StrandEnZeeCoordinator = entry.runtime_data
-    async_add_entities(
-        StrandEnZeeSensor(coordinator, entry, desc)
-        for desc in DESCRIPTIONS
-        if coordinator.has_candidates(desc.key)
-    )
+    async_add_entities(StrandEnZeeSensor(coordinator, entry, desc) for desc in DESCRIPTIONS)
 
 
 class StrandEnZeeSensor(CoordinatorEntity[StrandEnZeeCoordinator], SensorEntity):
     _attr_has_entity_name = True
+    _attr_attribution = ATTRIBUTION
 
     def __init__(
         self, coordinator: StrandEnZeeCoordinator, entry: ConfigEntry, description: SensorEntityDescription
     ) -> None:
         super().__init__(coordinator)
         self.entity_description = description
-        self._attr_attribution = ATTRIBUTIONS[coordinator.source]
         self._attr_unique_id = f"{entry.entry_id}_{description.key}"
         self._attr_device_info = DeviceInfo(
             identifiers={(DOMAIN, entry.entry_id)},
             name=entry.data[CONF_NAME],
-            manufacturer="Open-Meteo" if coordinator.source == "open_meteo" else "Rijkswaterstaat",
+            manufacturer="Open-Meteo",
             entry_type=DeviceEntryType.SERVICE,
         )
 
@@ -116,12 +112,7 @@ class StrandEnZeeSensor(CoordinatorEntity[StrandEnZeeCoordinator], SensorEntity)
         r = self._reading
         if r is None:
             return None
-        attrs: dict[str, object] = {
-            "station": r.station_name,
-            "station_code": r.station_code,
-            "distance_km": r.distance_km,
-            "measured_at": r.timestamp.isoformat(),
-        }
+        attrs: dict[str, object] = {"measured_at": r.timestamp.isoformat()}
         if self.entity_description.key == "wind_direction":
             attrs["compass"] = COMPASS[round(r.value / 22.5) % 16]
         return attrs
