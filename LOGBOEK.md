@@ -23,3 +23,4 @@
 - Manifest-sleutels gesorteerd (hassfest), icoon in brand/ toegevoegd (HACS brands-check), versie 0.2.0.
 - Release v0.2.0 gepubliceerd op GitHub (HACS-standaardlijst vereist een release).
 - v0.2.1: hacs.json country NL (vereist voor HACS-PR bij landgebonden integraties), Engelse samenvatting in README.
+- v0.2.2: sectie 'Niet inbegrepen' (zwemwaterkwaliteit/BIJ12) uit README gehaald op verzoek van de gebruiker.

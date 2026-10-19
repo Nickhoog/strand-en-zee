@@ -26,9 +26,6 @@ Watertemperatuur (°C), golfhoogte (m), golfperiode (s), windsnelheid (m/s) en w
 
 **Let op bij plassen en binnenwater:** Open-Meteo heeft daar vaak geen zeedata. Wind is er altijd, maar watertemperatuur en golven blijven dan onbeschikbaar.
 
-## Niet inbegrepen
-
-Zwemwaterkwaliteit (blauwalg, E. coli): Zwemwater.nl heeft geen officiële API en eist bronvermelding. Eerst toestemming vragen bij BIJ12 (communicatie@bij12.nl) voordat dit wordt toegevoegd.
 
 ## Gebruiksvoorwaarden
 
