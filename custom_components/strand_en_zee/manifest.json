@@ -1,0 +1,12 @@
+{
+  "domain": "strand_en_zee",
+  "name": "Strand & Zee",
+  "version": "0.1.0",
+  "config_flow": true,
+  "documentation": "https://github.com/Nickhoog/strand-en-zee",
+  "issue_tracker": "https://github.com/Nickhoog/strand-en-zee/issues",
+  "codeowners": ["@Nickhoog"],
+  "iot_class": "cloud_polling",
+  "integration_type": "service",
+  "requirements": []
+}

@@ -1,0 +1,50 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Beach & Sea",
+        "description": "Pick your beach location. For each measurement the nearest Rijkswaterstaat station is used.",
+        "data": {
+          "name": "Name (e.g. Zandvoort)",
+          "latitude": "Latitude",
+          "longitude": "Longitude",
+          "max_distance_km": "Maximum distance to station (km)",
+          "source": "Data source"
+        }
+      }
+    },
+    "error": {
+      "no_stations": "No measuring stations found within this distance."
+    },
+    "abort": {
+      "already_configured": "This location is already configured."
+    }
+  },
+  "entity": {
+    "sensor": {
+      "water_temperature": {
+        "name": "Water temperature"
+      },
+      "wave_height": {
+        "name": "Wave height"
+      },
+      "wave_period": {
+        "name": "Wave period"
+      },
+      "wind_speed": {
+        "name": "Wind speed"
+      },
+      "wind_direction": {
+        "name": "Wind direction"
+      }
+    }
+  },
+  "selector": {
+    "source": {
+      "options": {
+        "rws": "Rijkswaterstaat (measured, nearest station)",
+        "open_meteo": "Open-Meteo (model, at your exact location)"
+      }
+    }
+  }
+}
